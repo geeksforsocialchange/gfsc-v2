@@ -1,4 +1,4 @@
 ---
 layout: home
-title: Home page
+title: Working towards a fairer society using activism, technology, and research.
 ---

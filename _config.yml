@@ -5,14 +5,3 @@ kramdown:
 plugins:
   - jekyll-paginate
   - jekyll-autoprefixer
-
-site_name: My Website
-site_description: My website's description
-
-theme_primary_colour:
-theme_secondary_colour:
-
-contact_email: info@resistancelab.network
-contact_twitter: ResLabMcr
-contact_instagram: ResLabMcr
-contact_github: Resistance_Lab
