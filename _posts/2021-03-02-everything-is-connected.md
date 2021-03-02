@@ -8,7 +8,7 @@ social-image-wide: blog/everything-is-connected/og-wide.png
 social-image-square: blog/everything-is-connected/og-square.png
 ---
 
-Content note: This article contains discussions of classism, police brutality, incarceration, blood, sexism & misogyny, forced deportation and racism, with brief mentions of rape, violence, blood & needles, death and genocide.[^2]
+Content note: This article contains discussions of classism, police brutality, incarceration,  sexism & misogyny, forced deportation and racism, with brief mentions of rape, violence, blood & needles, death and genocide.[^2]
 
 {% include image.html alt="A colourful illustration of a venus fly trap being watered. The venus fly traps resemble laptops and the pot is reminiscent of a database icon." url="/assets/images/blog/everything-is-connected/venus-fly-trap.png" class="" %}
 
