@@ -70,10 +70,10 @@ So far I’ve been talking ‘big picture’ about the national and internationa
 
 Broadly speaking, four kinds of accounts come to mind:
 
-  * ““Consensual””[^scarequotes] accounts, where we optionally sign up to a service we want to access, usually clicking some 'I agree to the terms and conditions' box that we never actually read (at least [without dedicating 76 days a year to it](https://www.theatlantic.com/technology/archive/2012/03/reading-the-privacy-policies-you-encounter-in-a-year-would-take-76-work-days/253851/)).
-  * ““Semi-consensual”” accounts, where creating an account is mandatory for say, a job or residency status, but we would really rather not have one[^7].
+  * “Consensual”[^scarequotes] accounts, where we optionally sign up to a service we want to access, usually clicking some 'I agree to the terms and conditions' box that we never actually read (at least [without dedicating 76 days a year to it](https://www.theatlantic.com/technology/archive/2012/03/reading-the-privacy-policies-you-encounter-in-a-year-would-take-76-work-days/253851/)).
+  * “Semi-consensual” accounts, where creating an account is mandatory for say, a job or residency status, but we would really rather not have one[^7].
   * Non-consensual accounts, where data is stored on us by the police or security services against our will.
-  * Non-consensual ““anonymous”” accounts, where we are tracked by a variety of device identifiers that means ads can uniquely track us through a range of means.
+  * Non-consensual “anonymous” accounts, where we are tracked by a variety of device identifiers that means ads can uniquely track us through a range of means.
 
 Privacy discussions almost always centre the first type. We consent to signing up to a desirable app or website. We type in our email address. We conduct interactions within the app; as a casual user there are no third party ways you can access Facebook except for through the application itself, for example. By design, we are made to think of these as ‘[vertically integrated](https://www.investopedia.com/terms/v/verticalintegration.asp)’ closed gardens, a set of separate ‘data buckets’ that don’t cross over.
 
@@ -164,6 +164,8 @@ Silicon Valley firms spend a whole lot of money promoting that some of the most 
 Does your new app truly need users to create an account, or can you just give the information away for free? Do you really need to ask the ethnicity of your event participants, or can you just look around the room and see you have inclusion work to do without demanding the people affected the most by this provide receipts? If you gather information on the gender status of employees, how are you going to guarantee this doesn’t fall into the hands of the [Daily Mail](https://en.wikipedia.org/wiki/Lucy_Meadows)?
 
 Maybe you truly do need those things. Or maybe the parasitic desire for more data at any cost should be called out for what it is, a fascistic tendency with dire consequences. If we continue churning out softwares and technologies without fundamentally changing how we treat privacy and how we regard users, we will simply be building the final floors of a structure not unlike The Tower, a tarot card from the Major Arcana, which depicts a gigantic high rise built on shaky foundations. Like The Tower, which signifies chaos but also revelation, maybe the crumbling of the tech industry (and those who fund it) from the ground up will be a necessary, and welcome, revelation that will herald a new age. But should we always need prophecies of such apocalyptic scale to come to fruition before we can incite change?
+
+_Enjoyed this piece? [Consider sending a small donation on Ko-Fi](https://ko-fi.com/gfscstudio)!_
 
 {% include image.html description="Fig 9. ‘The Tower’ tarot card." url="/assets/images/blog/everything-is-connected/tower.jpg" class="center image--scale-down" %}
 
