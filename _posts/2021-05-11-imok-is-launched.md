@@ -14,7 +14,7 @@ The bot lets users 'check in' to the service with a messaging app or SMS message
 Examples use cases are:
 
 - Supporting protestors at risk of arrest or kidnapping
-- Supporting women and gender minorities walking home at night, or going on dates
+- Supporting women and LGBTQ+ people walking home at night, or going on dates
 - Supporting journalists or medical staff in warzones
 - Supporting people seeking asylum through 'signing in' processes
 
