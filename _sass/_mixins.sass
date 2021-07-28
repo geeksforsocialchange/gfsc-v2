@@ -35,5 +35,9 @@ $margin-desktop: 13.33333rem
     border-width: 0 2px 0 0
   @else if $side == all
     border-width: 2px
+  @else if $side == bottomless
+    border-width: 2px 2px 0 2px
+  @else if $side == none
+    border-width: 0
   @else
     border-width: $side
