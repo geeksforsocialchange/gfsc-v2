@@ -41,6 +41,8 @@ Yes you can.
 
 First of all, donations would be greatly appreciated. Imok has been developed entirely by volunteers in the GFSC collective. We've never attempted direct fundraising before at GFSC, and if this becomes a sustainable income source we will be able to greatly increase our capacity to release not just imok but a range of activist support software. [You can set up a one-off or regular donation on Ko-Fi](https://ko-fi.com/gfscstudio).
 
+{% include kofi.html %}
+
 If you are able to translate from English to any other language, we welcome translations. You can do this through [POEditor](https://poeditor.com/join/project?hash=p2lHT7RFE5). It's currently a very short translation project at around 30 sentences.
 
 If you are a Python/Django developer, we also welcome code contributors. We will be working on moving our development to GitHub issues in the coming weeks: feel free to give us an email at [kim@gfsc.studio](mailto:kim@gfsc.studio), a DM on Twitter [@gfscstudio](https://twitter.com/gfscstudio), or join the [GFSC Discord server](https://discord.gg/4JKak6aymM) if you want to help out.
