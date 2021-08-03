@@ -8,7 +8,7 @@ social-image-wide: blog/everything-is-connected/og-wide.png
 social-image-square: blog/everything-is-connected/og-square.png
 ---
 
-Content note: This article contains discussions of classism, police brutality, incarceration,  sexism & misogyny, forced deportation and racism, with brief mentions of rape, violence, blood & needles, death and genocide.[^2]
+Content note: This article contains discussions of classism, police brutality, incarceration, sexism & misogyny, forced deportation and racism, with brief mentions of rape, violence, blood & needles, death and genocide.[^2]
 
 {% include image.html alt="A colourful illustration of a venus fly trap being watered. The venus fly traps resemble laptops and the pot is reminiscent of a database icon." url="/assets/images/blog/everything-is-connected/venus-fly-trap.png" class="" %}
 
@@ -40,14 +40,13 @@ Most recently, the work of [Resistance Lab](https://resistancelab.network/), an 
 
 ---
 
-
 ### Living in the Manchester surveillance state, case studies
 
-In Manchester, where I live, Black people are [eight times more likely](https://www.leighjournal.co.uk/news/18540832.gmp-officers-8-times-likely-stop-search-black-people-white-people-figures-show/) to be ‘stop and search’-ed by the police, according to official stats[^4], which we suspect is an underrepresentation of the true figure. In practise this happens when ‘stop and search’ efforts are focused on ‘problem areas’ (read: Black areas) such as Moss Side, where, for example, [one person was searched 16 times](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/stop-and-search-greater-manchester-13978783). The results of these efforts produce an ongoing supply of minor offences that are then used to justify further over policing of these areas -- a self-fulfilling prophecy.  Meanwhile, ‘white collar’ crime in nearby financial districts such as Spinningfields is completely ignored and therefore has no evidence base.
+In Manchester, where I live, Black people are [eight times more likely](https://www.leighjournal.co.uk/news/18540832.gmp-officers-8-times-likely-stop-search-black-people-white-people-figures-show/) to be ‘stop and search’-ed by the police, according to official stats[^4], which we suspect is an underrepresentation of the true figure. In practise this happens when ‘stop and search’ efforts are focused on ‘problem areas’ (read: Black areas) such as Moss Side, where, for example, [one person was searched 16 times](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/stop-and-search-greater-manchester-13978783). The results of these efforts produce an ongoing supply of minor offences that are then used to justify further over policing of these areas -- a self-fulfilling prophecy. Meanwhile, ‘white collar’ crime in nearby financial districts such as Spinningfields is completely ignored and therefore has no evidence base.
 
 Under ‘joint enterprise’ legislation designed to make, say, the getaway driver of a bank robbery equally liable for crimes taking place during the robbery, [11 young people from Moss Side were sent to jail for one murder](https://www.theguardian.com/news/2018/mar/09/joint-enterprise-law-uk-how-do-11-people-go-to-jail-for-one-murder). The evidence for their connection? Smartphone footage of ‘gang signs’ being made, taken at a youth work session in a building that contains the local library. The gang sign? An extended middle finger. This is not an isolated case. The ethnicity and social class of those convicted will surprise no one.
 
-{% include smallsignup.html %}
+{% include smallsignup.html custom="Keep up to date with us and get content like this delivered to your inbox." %}
 
 The Mayor of Greater Manchester Andy Burnham now plans to put police officers in schools[^5], despite [large coordinated public efforts and independent research](https://nopoliceinschools.co.uk/) by campaigners. So when [he also says he wants to start tracking people’s fingerprints and veins in order to use the tram](https://www.business-live.co.uk/economic-development/andy-burnham-business-leaders-explore-19463591), it’s hard to imagine that this data won’t be used in the most totalitarian ways.
 
@@ -63,7 +62,6 @@ What we are learning is that one person’s convenience can easily result in ano
 
 If this all sounds too dystopian for you, the NHS have already [shared supposedly anonymous ‘track and trace’ data](https://www.bbc.co.uk/news/uk-54586897) with the police in a massive breach of patient confidentiality. Right now, the [Undercover Policing Enquiry](https://www.ucpi.org.uk/) is investigating decades of abuse by officers against innocent members of the public, including multiple women deceived into long term sexual relationships with police officers -- [they consider this rape (I do too](https://policespiesoutoflives.org.uk/legal-actions/human-rights-case/human-rights-pleadings/)). Their reporting went as far as to [keep records of the profits made from bake sales by women’s groups](http://campaignopposingpolicesurveillance.com/2020/11/19/ucpi-daily-report-18-nov-2020/); at a social centre cafe I used to help run in Leeds, what we assumed to be a series of money handling errors was almost certainly deliberate sabotage by an [undercover police officer](https://www.theguardian.com/uk/2011/jan/19/undercover-police-officer-lynn-watson). We must stop seeing these events not in isolation, but as part of a consciously constructed element of the global military-industrial complex.
 
-
 ---
 
 ### A practical example: the different types of user account
@@ -72,10 +70,10 @@ So far I’ve been talking ‘big picture’ about the national and internationa
 
 Broadly speaking, four kinds of accounts come to mind:
 
-  * “Consensual”[^scarequotes] accounts, where we optionally sign up to a service we want to access, usually clicking some 'I agree to the terms and conditions' box that we never actually read (at least [without dedicating 76 days a year to it](https://www.theatlantic.com/technology/archive/2012/03/reading-the-privacy-policies-you-encounter-in-a-year-would-take-76-work-days/253851/)).
-  * “Semi-consensual” accounts, where creating an account is mandatory for say, a job or residency status, but we would really rather not have one[^7].
-  * Non-consensual accounts, where data is stored on us by the police or security services against our will.
-  * Non-consensual “anonymous” accounts, where we are tracked by a variety of device identifiers that means ads can uniquely track us through a range of means.
+-  “Consensual”[^scarequotes] accounts, where we optionally sign up to a service we want to access, usually clicking some 'I agree to the terms and conditions' box that we never actually read (at least [without dedicating 76 days a year to it](https://www.theatlantic.com/technology/archive/2012/03/reading-the-privacy-policies-you-encounter-in-a-year-would-take-76-work-days/253851/)).
+-  “Semi-consensual” accounts, where creating an account is mandatory for say, a job or residency status, but we would really rather not have one[^7].
+-  Non-consensual accounts, where data is stored on us by the police or security services against our will.
+-  Non-consensual “anonymous” accounts, where we are tracked by a variety of device identifiers that means ads can uniquely track us through a range of means.
 
 Privacy discussions almost always centre the first type. We consent to signing up to a desirable app or website. We type in our email address. We conduct interactions within the app; as a casual user there are no third party ways you can access Facebook except for through the application itself, for example. By design, we are made to think of these as ‘[vertically integrated](https://www.investopedia.com/terms/v/verticalintegration.asp)’ closed gardens, a set of separate ‘data buckets’ that don’t cross over.
 
@@ -108,7 +106,6 @@ I cannot begin to describe the rabid fervour that everyone from business executi
 In the desire to see [data as the new oil](https://www.forbes.com/sites/forbestechcouncil/2019/11/15/data-is-the-new-oil-and-thats-a-good-thing/?sh=45b1817a7304), these people have either forgotten or simply don’t care that, much like oil, data generation is an extractive process designed to make a profit (or a comparative cost saving) for the owner of the data, and it is, much like with oil, apparently worth trampling over [basic human rights](https://www.nytimes.com/2018/10/15/technology/myanmar-facebook-genocide.html), national sovereignty, and the [environment](https://www.newscientist.com/article/2205779-creating-an-ai-can-be-five-times-worse-for-the-planet-than-a-car/) to get. Despite the (ironic?) complete lack of evidence for it, we are told this will have [health and wellbeing implications](https://tech.newstatesman.com/big-data/how-healthcare-big-data-lakes-aid-population-health-patient-care) too. Maybe there is, but never is this done as a cost/benefit analysis -- at least, I have never seen the risks seriously evaluated on any project.
 
 ---
-
 
 ### Most software is information software
 
@@ -144,7 +141,7 @@ Instead of asking people to register an account, enter their details and select 
 
 In PlaceCal’s case, people can find (and do find, when we aren’t in a pandemic) a weekly event near their home that they previously didn’t know existed, go to the event, establish a real-world connection, and maybe never check the site again. In some cases it was their GP who referred them, so they didn’t even touch the site directly. (It’s hard to overstate how much public health practitioners simply do not have easily searchable simple text databases of local health services available to them). Similarly, in Street Support’s case, we have absolutely no data on how it helps homeless people (or not).
 
-So how are we to know it works if we don’t siphon off every drop of data we could possibly gather into a private data lake for analysis by a third party? Because we trust the people we talk to about it to tell us it works, through ongoing engagement with our project partners. We get constant feedback from community development workers that their work would be impossible without it -- and in fact,_ is _impossible in areas without these interventions.
+So how are we to know it works if we don’t siphon off every drop of data we could possibly gather into a private data lake for analysis by a third party? Because we trust the people we talk to about it to tell us it works, through ongoing engagement with our project partners. We get constant feedback from community development workers that their work would be impossible without it -- and in fact,\_ is \_impossible in areas without these interventions.
 
 So why aren’t more sites like this? The simple answer is that this logic goes down like a lead balloon with funders, for whom their only model is a case-by-case basis, who want a graph or preferably a pretty infographic showing a line of ‘goodness’ going up. Big institutions are currently investing serious sums in community engagement and investment funds, writing about communities in their marketing materials, and promising 'people first' or ‘citizen led’ approaches.
 
@@ -160,7 +157,6 @@ Silicon Valley firms spend a whole lot of money promoting that some of the most 
 
 {% include image.html description="Fig 8. Arms trader Tony Stark from the Marvel franchise Iron Man, role model for aspiring Elon Musks everywhere." url="/assets/images/blog/everything-is-connected/tony-stark.jpg" class="frame" %}
 
-
 ### Conclusion (of doom?)
 
 Does your new app truly need users to create an account, or can you just give the information away for free? Do you really need to ask the ethnicity of your event participants, or can you just look around the room and see you have inclusion work to do without demanding the people affected the most by this provide receipts? If you gather information on the gender status of employees, how are you going to guarantee this doesn’t fall into the hands of the [Daily Mail](https://en.wikipedia.org/wiki/Lucy_Meadows)?
@@ -175,31 +171,12 @@ Maybe you truly do need those things. Or maybe the parasitic desire for more dat
 
 Thanks to co-author [Jazz Chatfield](https://twitter.com/jazzchatfield) for his significant contributions to this piece, [Beck Michalak](https://twitter.com/R_Michalak) for the venus fly trap illustration, and [Natalie Ashton](https://twitter.com/Natalan) for inviting me to write this for the [Norms for the New Public Sphere](https://newpublicsphere.stir.ac.uk/) project.
 
-
-[^1]:
-     Correspondence: [kim@gfsc.studio](mailto:kim@gfsc.studio). Thanks to Jazz Chatfield for significant contributions to this draft.
-
-[^2]:
-     This list does not include warnings for the content of linked news articles, so please view at your discretion. I have tried to make this list as exhaustive as possible, so please let me know if there are any I have missed.
-
-[^3]:
-     Academia is often referred to as the ‘ivory tower’ due to its lack of accountability and disconnection from the rest of public life. I’m coining this term to refer to the same phenomenon in the tech industry, as discussions increasingly only centre the voices of developers, ‘tech evangelists’ and financiers, and not wider society.
-
-[^4]:
-     It’s worth pointing out that [GMP have been placed in ‘special measures](https://www.theguardian.com/uk-news/2020/dec/17/greater-manchester-police-to-be-placed-special-measures)’ and the Chief Constable has resigned over their data gathering and publishing practice, so all their statistics are currently under suspicion.
-
-[^5]:
-     Currently on hold due to Covid-19.
-
-[^scarequotes]:
-     Placed in "scarequotes" because often creating an account is a mandatory step that is hidden at the outset.
-
-[^6]:
-     For older and disabled people this can of course be an insurmountable barrier and one of the biggest barriers to digital inclusion, but this will have to be a discussion for another time.
-
-[^7]:
-
-     Protip: if you need a temporary email address to activate an account you can use browser-based tool [Tempail](http://tempail.com/).
-
-[^8]:
-     For more on this, [check our journal article](https://www.tandfonline.com/doi/full/10.1080/1369118X.2020.1767173) about the application of the capability approach to IT production in an inner-city neighbourhood in Manchester.
+[^1]: Correspondence: [kim@gfsc.studio](mailto:kim@gfsc.studio). Thanks to Jazz Chatfield for significant contributions to this draft.
+[^2]: This list does not include warnings for the content of linked news articles, so please view at your discretion. I have tried to make this list as exhaustive as possible, so please let me know if there are any I have missed.
+[^3]: Academia is often referred to as the ‘ivory tower’ due to its lack of accountability and disconnection from the rest of public life. I’m coining this term to refer to the same phenomenon in the tech industry, as discussions increasingly only centre the voices of developers, ‘tech evangelists’ and financiers, and not wider society.
+[^4]: It’s worth pointing out that [GMP have been placed in ‘special measures](https://www.theguardian.com/uk-news/2020/dec/17/greater-manchester-police-to-be-placed-special-measures)’ and the Chief Constable has resigned over their data gathering and publishing practice, so all their statistics are currently under suspicion.
+[^5]: Currently on hold due to Covid-19.
+[^scarequotes]: Placed in "scarequotes" because often creating an account is a mandatory step that is hidden at the outset.
+[^6]: For older and disabled people this can of course be an insurmountable barrier and one of the biggest barriers to digital inclusion, but this will have to be a discussion for another time.
+[^7]: Protip: if you need a temporary email address to activate an account you can use browser-based tool [Tempail](http://tempail.com/).
+[^8]: For more on this, [check our journal article](https://www.tandfonline.com/doi/full/10.1080/1369118X.2020.1767173) about the application of the capability approach to IT production in an inner-city neighbourhood in Manchester.

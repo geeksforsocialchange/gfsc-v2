@@ -1,7 +1,11 @@
-<div class="kofi" markdown="0">
-   <text class="kofi__text"
-      >Make a donation on Ko-fi to help us create more content like this.</text
-   >
+<aside class="kofi" markdown="0">
+   <p class="kofi__text">
+      {% if include.custom %}
+      {{include.custom}}
+      {% else %}
+      Make a donation on Ko-fi to help us create more content like this.
+      {% endif %}
+   </p>
    <div class="kofi__button__container">
       <a
          href="https://ko-fi.com/gfscstudio"
@@ -10,4 +14,4 @@
          >Donate now</a
       >
    </div>
-</div>
+</aside>

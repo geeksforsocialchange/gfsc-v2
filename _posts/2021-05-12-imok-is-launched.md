@@ -13,10 +13,10 @@ The bot lets users 'check in' to the service with a messaging app or SMS message
 
 Examples use cases are:
 
-- Supporting protestors at risk of arrest or kidnapping
-- Supporting women and LGBTQ+ people walking home at night, or going on dates
-- Supporting journalists or medical staff in warzones
-- Supporting people seeking asylum through 'signing in' processes
+-  Supporting protestors at risk of arrest or kidnapping
+-  Supporting women and LGBTQ+ people walking home at night, or going on dates
+-  Supporting journalists or medical staff in warzones
+-  Supporting people seeking asylum through 'signing in' processes
 
 We released it today under an open source (MIT) license. If you'd like to dive in and have a look then go [check it out](https://github.com/geeksforsocialchange/imok) on GitHub, which contains full instructions for setting up your own instance and a list of recommended security precautions.
 
@@ -41,7 +41,7 @@ Yes you can.
 
 First of all, donations would be greatly appreciated. Imok has been developed entirely by volunteers in the GFSC collective. We've never attempted direct fundraising before at GFSC, and if this becomes a sustainable income source we will be able to greatly increase our capacity to release not just imok but a range of activist support software. [You can set up a one-off or regular donation on Ko-Fi](https://ko-fi.com/gfscstudio).
 
-{% include kofi.html %}
+{% include kofi.html custom="Support this and other projects by buying us a Ko-fi." %}
 
 If you are able to translate from English to any other language, we welcome translations. You can do this through [POEditor](https://poeditor.com/join/project?hash=p2lHT7RFE5). It's currently a very short translation project at around 30 sentences.
 
@@ -53,4 +53,4 @@ After completing the Dallas Court trial, we will be adapting the tool to support
 
 ---
 
-[^1]: The government's rules say you *are* allowed a call, but in practice this is very hit or miss ([Taylor & Humphrey, 2021](https://www.theguardian.com/uk-news/2021/apr/22/home-office-breaches-own-rules-deporting-vietnamese-migrants); [Taylor, 2020](https://www.theguardian.com/uk-news/2020/feb/18/home-office-to-release-information-about-immigration-detainees-access-to-lawyers)). Most commonly, people who are detained will have their phones or SIM card taken away. The offer of a phonecall often comes too late or never at all.
+[^1]: The government's rules say you _are_ allowed a call, but in practice this is very hit or miss ([Taylor & Humphrey, 2021](https://www.theguardian.com/uk-news/2021/apr/22/home-office-breaches-own-rules-deporting-vietnamese-migrants); [Taylor, 2020](https://www.theguardian.com/uk-news/2020/feb/18/home-office-to-release-information-about-immigration-detainees-access-to-lawyers)). Most commonly, people who are detained will have their phones or SIM card taken away. The offer of a phonecall often comes too late or never at all.
