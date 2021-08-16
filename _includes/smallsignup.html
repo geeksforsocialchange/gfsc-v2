@@ -1,27 +1,31 @@
-<div class="signupbig">
-   <p class="signupbig__title">
+<aside class="signupsmall" markdown="0">
+   <p class="signupsmall__title">
+      {% if include.custom %}
+      {{include.custom}}
+      {% else %}
       Support our mission of a fairer world using technology & join our email
       list.
+      {% endif %}
    </p>
    <form
-      class="signupbig__form"
+      class="signupsmall__form"
       action="https://static.mailerlite.com/webforms/submit/g2r6z4"
       data-code="g2r6z4"
       method="post"
       target="_blank"
    >
       <input
-         class="signupbig__input"
+         class="signupsmall__input"
          type="email"
          placeholder="Your email address"
          name="fields[email]"
       />
-      <div class="signupbig__submitbutton__container">
+      <div class="signupsmall__submitbutton__container">
          <input type="hidden" name="ml-submit" value="1" />
-         <button type="submit" class="signupbig__submitbutton__button">
+         <button type="submit" class="signupsmall__submitbutton__button">
             Sign up
          </button>
          <input type="hidden" name="anticsrf" value="true" />
       </div>
    </form>
-</div>
+</aside>
