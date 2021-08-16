@@ -41,7 +41,7 @@ Yes you can.
 
 First of all, donations would be greatly appreciated. Imok has been developed entirely by volunteers in the GFSC collective. We've never attempted direct fundraising before at GFSC, and if this becomes a sustainable income source we will be able to greatly increase our capacity to release not just imok but a range of activist support software. [You can set up a one-off or regular donation on Ko-Fi](https://ko-fi.com/gfscstudio).
 
-{% include kofi.html custom="Support this and other projects by buying us a Ko-fi." %}
+{% include kofi.html custom="You can support imok development by donating on Ko-fi." %}
 
 If you are able to translate from English to any other language, we welcome translations. You can do this through [POEditor](https://poeditor.com/join/project?hash=p2lHT7RFE5). It's currently a very short translation project at around 30 sentences.
 
