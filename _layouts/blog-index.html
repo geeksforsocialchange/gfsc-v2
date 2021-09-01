@@ -3,7 +3,6 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
-  {% assign author = site.data.authors[post.author] %}
   <article itemscope itemtype="http://schema.org/BlogPosting" role="article" class="teaser">
     <div class="teaser__content">
       <header>
@@ -19,7 +18,22 @@ layout: default
     </div>
     <aside class="teaser__aside">
       <time class="teaser__meta" datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-      <div class="teaser__meta" rel="author">By {{ author.name }}</div>
+      <div class="teaser__meta" rel="author">By
+        {% if post.author %}
+          {% assign author = site.data.authors[post.author] %}
+          {{ author.name }}
+        {% elsif post.authors %}
+          {% for blogauthor in post.authors %}
+            {% assign author = site.data.authors[blogauthor] %}
+            {% if blogauthor == post.authors.last %}
+              {{ author.name }}
+            {% else %}
+              {{ author.name }}, 
+            {% endif %}
+          {% endfor %}
+        {% else %}
+        {% endif %}
+        </div>
     </aside>
   </article>
   {% if forloop.last == false %}
