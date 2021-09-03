@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+{% assign blogauthors = page.author | split: ", " %}
 <div class="blog">
   <div class="blog__content">
     <header>
@@ -17,40 +17,23 @@ layout: default
   </div>
 
   <aside class="blog__aside">
-    <time class="blog__meta" datetime="{{ page.date | date_to_long_string }}">{{ page.date | date_to_long_string }}</time>
-    <div class="blog__meta" rel="author">By
-      {% if page.author %}
-        {% assign author = site.data.authors[page.author] %}
-        {{ author.name }}
-      {% elsif page.authors %}
-        {% for blogauthor in page.authors %}
+    <time class="blog__meta  blog__meta--date" datetime="{{ page.date | date_to_long_string }}">{{ page.date | date_to_long_string }}</time>
+    <div class="blog__meta blog__meta--author" rel="author">By
+      {% for blogauthor in blogauthors %}
           {% assign author = site.data.authors[blogauthor] %}
-          {% if blogauthor == page.authors.last %}
+          {% if blogauthor == blogauthors.last %}
             {{ author.name }}
           {% else %}
             {{ author.name }}, 
           {% endif %}
         {% endfor %}
-      {% else %}
-      {% endif %}
-    </div>
-    <div class="blog__meta blog__meta--avatar">
-      {% if page.author %}
-        {% assign author = site.data.authors[page.author] %}
-        <picture>
-          <img src="/assets/images/authors/{{ author.avatar }}"
-             alt="A photo of {{ page.author }}">
-        </picture>
-      {% elsif page.authors %}
-        {% for blogauthor in page.authors %}
-          {% assign author = site.data.authors[blogauthor] %}
-          <picture>
-            <img src="/assets/images/authors/{{ author.avatar }}"
-               alt="A photo of {{ page.author }}">
-          </picture>
-        {% endfor %}
-      {% else %}
-      {% endif %}
+    </div>{% for blogauthor in blogauthors %}{% assign author = site.data.authors[blogauthor] %}<div class="blog__meta blog__meta--avatar">
+            <picture>
+              <img src="/assets/images/authors/{{ author.avatar }}"
+                alt="A photo of {{ author.name }}"
+                class="blog__meta--avatar--image">
+            </picture>
+          </div>{% endfor %}
     </div>
   </aside>
 </div>

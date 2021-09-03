@@ -3,7 +3,7 @@ layout: blog
 title: Everything is connected, but should it be?
 subtitle: What if storing user data at all is a dark pattern?
 description: "The dream of utopian connectivity we were promised could not be further from our current reality."
-author: kim
+author: kim, jazz
 social-image-wide: blog/everything-is-connected/og-wide.png
 social-image-square: blog/everything-is-connected/og-square.png
 ---

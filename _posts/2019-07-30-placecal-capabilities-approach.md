@@ -2,7 +2,7 @@
 layout: blog
 title: "Making a place for technology in communities"
 subtitle: PlaceCal and the capabilities approach
-author: kim
+author: kim, stefan
 description: We discuss how a capability approach to information technology in neighbourhoods with low social capital can create embedded and sustainable Community Technology Partnerships (CTPs) that connect residents and institutions together, reducing barriers to social participation and collaborative action.
 ---
 
@@ -234,7 +234,6 @@ Secretaries in the pilot area worked with every community group in the neighbour
 
 By helping groups upload their events using existing tools, we made the crucial job of diary publishing as easy as possible and with a clear definition of success: publish a calendar feed and let us know about it. For example, Big Life Centres, a large community partner with two venues each with their own programme, previously published only a weekly paper leaflet distributed on their front desk, and were not able to get this information online. As the result of a key worker publishing this information in their existing Outlook system with the assistance of their existing IT support provider, PlaceCal has become the core events listing for the service, removing the burden on an already overstretched admin staff. In another case, it emerged the system that was already in use was outputting an iCal feed.
 
-
 > I am so pleased you think you can link to what we already have. I was quite concerned about setting up something additional as we don’t have people with the skills or time to keep it all up to date. I have just about got to grips with what we do have!
 >
 > Susan Ash, Mossley Community Centre
@@ -248,7 +247,6 @@ Community groups in the pilot area have been supported to publish information in
 <h4 id="social-prescribers">Social prescribers</h4>
 
 ‘Social prescribers’ are individuals and organisations who have a statutory duty to support the health of the community and who are seeking to do so by helping them connect to local activities, programmes and opportunities. A Nesta study <span class="citation" data-cites="nesta2013">(2013)</span> discovered 90% of GPs would ‘socially prescribe’ if they had access to the right information, but only 9% of patients have received social prescriptions, a finding supported by the UK Government and the NHS <span class="citation" data-cites="nhsengland2019">(NHS England, 2019)</span>. This finding appeared to be confirmed in our pilot area as shown in the example below of work with a local GP practice.
-
 
 > I think it’s really fleshed out the challenge of how we get information out. Having a tool to let people find this out themselves seems totally obvious, it lets people teach me stuff, like “oh that refugee service is better than that one”, that helps us find a way together.
 >
@@ -451,7 +449,6 @@ World Health Organization. (2007). <em>Global Age-friendly Cities: A Guide</em>.
 
 </div>
 </div>
-
 
 ### Footnotes
 

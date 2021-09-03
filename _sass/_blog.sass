@@ -123,31 +123,63 @@
         margin: 0 -7rem
         padding: 1rem 7rem
   &__aside
-    display: grid
-    grid-template-columns: 1fr 1fr
+    display: flex
+    width: 100%
     +for-tablet-portrait-up
-      grid-template-columns: auto auto 50px 1fr
-      grid-row: 1
-      grid-column: 1
-      +border(0)
-      padding: 0 1.666667rem
+      border-top: 1rem $primary-shade solid
     +for-tablet-landscape-up
-      grid-column: 1
-      order: 1
+      box-sizing: border-box
       +border(right)
       display: block
       padding: 0
   &__meta
     +balboa
     font-size: 1.11111rem
-    padding: 0.5rem 1.5rem
-    text-align: center
-    +border(0 2px 2px 0)
+    box-sizing: border-box
+    line-height: 1.22222rem
+    padding: 0.75rem 1.25rem
+    +border(0px 2px 2px 0)
+    +for-tablet-portrait-up
+      +border(2px 0px 2px 2px)
+      &:first-child
+        +border(2px 0px 2px 0px)
+    +for-tablet-landscape-up
+      +border(bottom)
+      &:first-child
+        +border(bottom)
+      &:last-child
+        +border(bottom)
+      padding: 1.5rem
+      font-size: 1.333333rem
+      margin: 0
+      display: block
+      text-align: left
     +for-phone-only
       &:first-child
         +border(0 2px 2px 2px)
+    &--date
+      text-align: center
+      justify-content: center
+      flex-grow: 1
+      flex-shrink: 0
+      display: flex
+      align-items: center
+      +for-phone-only
+        width: 50%
+      +for-tablet-landscape-up
+        text-align: left
+        justify-content: left
+    &--author
+      text-align: left
+      flex-grow: 2
+      +for-tablet-landscape-up
+        line-height: 1.444444rem
+      +for-desktop-up
+        padding-right: 3rem
     &--avatar
-      padding: 0
+      padding: 0.25rem
+      &--image
+        display: block
       text-align: center
       line-height: 1
       display: grid
@@ -159,25 +191,30 @@
       +for-phone-only
         display: none
       +for-tablet-landscape-up
+        box-sizing: border-box
+        &:nth-child(3):nth-last-child(1)
+          padding: 1.25rem
+        &:nth-child(3):nth-last-child(2), &:nth-child(3):nth-last-child(2) ~ &
+          width: 50%
+        &:nth-child(3):nth-last-child(2)
+          padding: 1rem 0.5rem 1rem 0.75rem
+        &:nth-child(3):nth-last-child(2) ~ &
+          padding: 1rem 0.75rem 1rem 0.5rem
+        &:nth-child(3):nth-last-child(3), &:nth-child(3):nth-last-child(3) ~ &
+          width: 33.3333333%
+        &:nth-child(3):nth-last-child(3)
+          padding: 1rem 0.25rem 1rem 0.75rem
+        &:nth-child(4):nth-last-child(2)
+          padding: 1rem 0.5rem 1rem 0.5rem
+        &:nth-child(5):nth-last-child(1)
+          padding: 1rem 0.75rem 1rem 0.25rem
+        display: inline-block
         img
           width: 95%
           max-width: 95%
           margin: 0 auto
           padding-left: 2.5%
-    +for-tablet-portrait-up
-      margin-top: 2rem
-      +border(2px 0px 2px 2px)
-      &:last-child
-        +border(all)
-    +for-tablet-landscape-up
-      +border(bottom)
-      &:last-child
-        +border(bottom)
-      padding: 1.25rem
-      font-size: 1.333333rem
-      margin: 0
-      display: block
-      text-align: left
+
 
 
   // .sidenote
