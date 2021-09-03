@@ -202,6 +202,8 @@ Most people belonged to more than one of these roles: for example, everyone is a
 
 The rest of this section explores these roles in depth, and how through <strong>direct engagement</strong> in a <strong>creative partnership</strong> we <strong>actively realised</strong> their increased capability (as established in Section ).
 
+{% include kofi.html custom="Support our community work by donating the price of a Ko-fi to us." %}
+
 <h3 id="roles-and-their-capabilities">Roles and their capabilities</h3>
 
 <h4 id="secretary">Secretary</h4>
@@ -317,6 +319,8 @@ A CTP creates a wide range of shared benefits by enabling specific people in a p
 
 The authors are now working on a cross-sector collaborative funding bid to ‘roll out’ PlaceCal to the City of Manchester, working in partnership with the neighbourhood team, library services, housing associations, GPs, and the Local Care Organisation. This bid will enable the creation of a charity that will own and direct the PlaceCal initiative, funded and managed for the wider benefit of local communities on behalf of its members. We hope that this realisation of the capability approach can radically transform the way that we think about and share community information and build technology, both in the UK and internationally, and paves the way for similar initiatives by others.
 
+{% include smallsignup.html custom="Join our mailing list to hear more about our projects and receive our articles directly to your inbox." %}
+
 <h2 id="acknowledgements">Acknowledgements</h2>
 The authors would like to thank Matt Youngson and April Manderson from the MAFN team; Mark Dormand, Jazz Chatfield and Justin Hellings from GFSC; Age Friendly Hulme and Moss Side; Dr Alaisdair Honeyman; and Patrick Hanfling.
 
@@ -325,6 +329,8 @@ The authors are engaged in acquiring funding to further develop the PlaceCal pil
 
 <h2 id="funding">Funding</h2>
 Innovate UK’s <em>CityVerve</em> program funded the PlaceCal pilot. It was supported by a community development grant from Manchester City Council.
+
+{% include kofi.html custom="Buy us a Ko-fi if you want to support Geeks for Social Change's projects, including PlaceCal." %}
 
 <section class="footnotes" role="doc-endnotes">
 

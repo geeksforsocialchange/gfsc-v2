@@ -51,6 +51,8 @@ If you are a Python/Django developer, we also welcome code contributors. We will
 
 After completing the Dallas Court trial, we will be adapting the tool to support the growing wave of protests in the UK such as #KillTheBill. These protests are already resulting in harassment and assaults by the police, with a common tactic being to snatch protestors off the streets, put them in a cell at a police station in the sticks, and later releasing them far away from home in the middle of the night. We hope that imok can somewhat mitigate this through improved tracking of individuals attending protests. If you are in a group for whom this would be a useful tool, please feel free to get in touch.
 
+{% include smallsignup.html custom="Keep up to date on imok and our other projects by joining our email list." %}
+
 ---
 
 [^1]: The government's rules say you _are_ allowed a call, but in practice this is very hit or miss ([Taylor & Humphrey, 2021](https://www.theguardian.com/uk-news/2021/apr/22/home-office-breaches-own-rules-deporting-vietnamese-migrants); [Taylor, 2020](https://www.theguardian.com/uk-news/2020/feb/18/home-office-to-release-information-about-immigration-detainees-access-to-lawyers)). Most commonly, people who are detained will have their phones or SIM card taken away. The offer of a phonecall often comes too late or never at all.

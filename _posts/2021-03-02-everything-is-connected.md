@@ -38,6 +38,8 @@ Between these extremes, and especially on a more local level, the impact of vamp
 
 Most recently, the work of [Resistance Lab](https://resistancelab.network/), an anti-racist collective who aim to find new ways to resist state violence, in Manchester has cemented something for me: that the dream of utopian connectivity we were promised could not be further from our current reality.
 
+{% include smallsignup.html custom="Get our latest articles delivered straight to your inbox." %}
+
 ---
 
 ### Living in the Manchester surveillance state, case studies
@@ -45,8 +47,6 @@ Most recently, the work of [Resistance Lab](https://resistancelab.network/), an 
 In Manchester, where I live, Black people are [eight times more likely](https://www.leighjournal.co.uk/news/18540832.gmp-officers-8-times-likely-stop-search-black-people-white-people-figures-show/) to be ‘stop and search’-ed by the police, according to official stats[^4], which we suspect is an underrepresentation of the true figure. In practise this happens when ‘stop and search’ efforts are focused on ‘problem areas’ (read: Black areas) such as Moss Side, where, for example, [one person was searched 16 times](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/stop-and-search-greater-manchester-13978783). The results of these efforts produce an ongoing supply of minor offences that are then used to justify further over policing of these areas -- a self-fulfilling prophecy. Meanwhile, ‘white collar’ crime in nearby financial districts such as Spinningfields is completely ignored and therefore has no evidence base.
 
 Under ‘joint enterprise’ legislation designed to make, say, the getaway driver of a bank robbery equally liable for crimes taking place during the robbery, [11 young people from Moss Side were sent to jail for one murder](https://www.theguardian.com/news/2018/mar/09/joint-enterprise-law-uk-how-do-11-people-go-to-jail-for-one-murder). The evidence for their connection? Smartphone footage of ‘gang signs’ being made, taken at a youth work session in a building that contains the local library. The gang sign? An extended middle finger. This is not an isolated case. The ethnicity and social class of those convicted will surprise no one.
-
-{% include smallsignup.html custom="Get the latest articles by GFSC delivered straight to your inbox." %}
 
 The Mayor of Greater Manchester Andy Burnham now plans to put police officers in schools[^5], despite [large coordinated public efforts and independent research](https://nopoliceinschools.co.uk/) by campaigners. So when [he also says he wants to start tracking people’s fingerprints and veins in order to use the tram](https://www.business-live.co.uk/economic-development/andy-burnham-business-leaders-explore-19463591), it’s hard to imagine that this data won’t be used in the most totalitarian ways.
 
@@ -161,15 +161,17 @@ Silicon Valley firms spend a whole lot of money promoting that some of the most 
 
 Does your new app truly need users to create an account, or can you just give the information away for free? Do you really need to ask the ethnicity of your event participants, or can you just look around the room and see you have inclusion work to do without demanding the people affected the most by this provide receipts? If you gather information on the gender status of employees, how are you going to guarantee this doesn’t fall into the hands of the [Daily Mail](https://en.wikipedia.org/wiki/Lucy_Meadows)?
 
-{% include kofi.html custom="Support us to write more articles like this with a donation on Ko-fi." %}
-
 Maybe you truly do need those things. Or maybe the parasitic desire for more data at any cost should be called out for what it is, a fascistic tendency with dire consequences. If we continue churning out softwares and technologies without fundamentally changing how we treat privacy and how we regard users, we will simply be building the final floors of a structure not unlike The Tower, a tarot card from the Major Arcana, which depicts a gigantic high rise built on shaky foundations. Like The Tower, which signifies chaos but also revelation, maybe the crumbling of the tech industry (and those who fund it) from the ground up will be a necessary, and welcome, revelation that will herald a new age. But should we always need prophecies of such apocalyptic scale to come to fruition before we can incite change?
 
 {% include image.html description="Fig 9. ‘The Tower’ tarot card." url="/assets/images/blog/everything-is-connected/tower.jpg" class="center image--scale-down" %}
 
+{% include kofi.html custom="Support us to write more articles like this with a donation on Ko-fi." %}
+
 ### Acknowledgements
 
 Thanks to co-author [Jazz Chatfield](https://twitter.com/jazzchatfield) for his significant contributions to this piece, [Beck Michalak](https://twitter.com/R_Michalak) for the venus fly trap illustration, and [Natalie Ashton](https://twitter.com/Natalan) for inviting me to write this for the [Norms for the New Public Sphere](https://newpublicsphere.stir.ac.uk/) project.
+
+{% include smallsignup.html custom="Sign up to our mailing list to get our latest articles delivered straight to your inbox." %}
 
 [^1]: Correspondence: [kim@gfsc.studio](mailto:kim@gfsc.studio). Thanks to Jazz Chatfield for significant contributions to this draft.
 [^2]: This list does not include warnings for the content of linked news articles, so please view at your discretion. I have tried to make this list as exhaustive as possible, so please let me know if there are any I have missed.

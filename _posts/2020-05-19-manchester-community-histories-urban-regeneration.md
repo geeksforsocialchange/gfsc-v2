@@ -34,6 +34,8 @@ As our contemporary urban landscape makes clear, local activists were not succes
 
 {% include image.html description="Former residents stand on the exact spot of their old homes in Greenheys." url="/assets/images/blog/hulme-history-day/pic4.jpg" class="frame" %}
 
-After lunch, we returned for a series of workshops organized by residents, cultural practitioners, and community historians all engaged in vital heritage-making practices related to the area. Through family memoirs and photobooks, theatrical performances, and oral accounts we are all constructing histories capable of outlasting the bulldozers and, hopefully, shaping future discussions about the impact of urban regeneration in our communities.  
+After lunch, we returned for a series of workshops organized by residents, cultural practitioners, and community historians all engaged in vital heritage-making practices related to the area. Through family memoirs and photobooks, theatrical performances, and oral accounts we are all constructing histories capable of outlasting the bulldozers and, hopefully, shaping future discussions about the impact of urban regeneration in our communities.
 
 _Dr Kerry Pimblott is a Lecturer in International History at Manchester University. You can follow her on Twitter [@DrPimblott](https://twitter.com/DrPimblott) and read more about her project [Race, Roots & Resistance](https://www.racerootsresist.com/)._
+
+{% include smallsignup.html custom="Sign up to our mailing list to get our latest articles delivered straight to your inbox." %}
