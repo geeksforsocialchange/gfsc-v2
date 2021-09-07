@@ -2,7 +2,7 @@
 layout: blog
 title: "Making a place for technology in communities"
 subtitle: PlaceCal and the capabilities approach
-author: kim
+author: kim, stefan
 description: We discuss how a capability approach to information technology in neighbourhoods with low social capital can create embedded and sustainable Community Technology Partnerships (CTPs) that connect residents and institutions together, reducing barriers to social participation and collaborative action.
 ---
 
@@ -202,6 +202,8 @@ Most people belonged to more than one of these roles: for example, everyone is a
 
 The rest of this section explores these roles in depth, and how through <strong>direct engagement</strong> in a <strong>creative partnership</strong> we <strong>actively realised</strong> their increased capability (as established in Section ).
 
+{% include kofi.html custom="Support our community work by donating the price of a Ko-fi to us." %}
+
 <h3 id="roles-and-their-capabilities">Roles and their capabilities</h3>
 
 <h4 id="secretary">Secretary</h4>
@@ -234,7 +236,6 @@ Secretaries in the pilot area worked with every community group in the neighbour
 
 By helping groups upload their events using existing tools, we made the crucial job of diary publishing as easy as possible and with a clear definition of success: publish a calendar feed and let us know about it. For example, Big Life Centres, a large community partner with two venues each with their own programme, previously published only a weekly paper leaflet distributed on their front desk, and were not able to get this information online. As the result of a key worker publishing this information in their existing Outlook system with the assistance of their existing IT support provider, PlaceCal has become the core events listing for the service, removing the burden on an already overstretched admin staff. In another case, it emerged the system that was already in use was outputting an iCal feed.
 
-
 > I am so pleased you think you can link to what we already have. I was quite concerned about setting up something additional as we don’t have people with the skills or time to keep it all up to date. I have just about got to grips with what we do have!
 >
 > Susan Ash, Mossley Community Centre
@@ -248,7 +249,6 @@ Community groups in the pilot area have been supported to publish information in
 <h4 id="social-prescribers">Social prescribers</h4>
 
 ‘Social prescribers’ are individuals and organisations who have a statutory duty to support the health of the community and who are seeking to do so by helping them connect to local activities, programmes and opportunities. A Nesta study <span class="citation" data-cites="nesta2013">(2013)</span> discovered 90% of GPs would ‘socially prescribe’ if they had access to the right information, but only 9% of patients have received social prescriptions, a finding supported by the UK Government and the NHS <span class="citation" data-cites="nhsengland2019">(NHS England, 2019)</span>. This finding appeared to be confirmed in our pilot area as shown in the example below of work with a local GP practice.
-
 
 > I think it’s really fleshed out the challenge of how we get information out. Having a tool to let people find this out themselves seems totally obvious, it lets people teach me stuff, like “oh that refugee service is better than that one”, that helps us find a way together.
 >
@@ -319,6 +319,8 @@ A CTP creates a wide range of shared benefits by enabling specific people in a p
 
 The authors are now working on a cross-sector collaborative funding bid to ‘roll out’ PlaceCal to the City of Manchester, working in partnership with the neighbourhood team, library services, housing associations, GPs, and the Local Care Organisation. This bid will enable the creation of a charity that will own and direct the PlaceCal initiative, funded and managed for the wider benefit of local communities on behalf of its members. We hope that this realisation of the capability approach can radically transform the way that we think about and share community information and build technology, both in the UK and internationally, and paves the way for similar initiatives by others.
 
+{% include smallsignup.html custom="Join our mailing list to hear more about our projects and receive our articles directly to your inbox." %}
+
 <h2 id="acknowledgements">Acknowledgements</h2>
 The authors would like to thank Matt Youngson and April Manderson from the MAFN team; Mark Dormand, Jazz Chatfield and Justin Hellings from GFSC; Age Friendly Hulme and Moss Side; Dr Alaisdair Honeyman; and Patrick Hanfling.
 
@@ -327,6 +329,8 @@ The authors are engaged in acquiring funding to further develop the PlaceCal pil
 
 <h2 id="funding">Funding</h2>
 Innovate UK’s <em>CityVerve</em> program funded the PlaceCal pilot. It was supported by a community development grant from Manchester City Council.
+
+{% include kofi.html custom="Buy us a Ko-fi if you want to support Geeks for Social Change's projects, including PlaceCal." %}
 
 <section class="footnotes" role="doc-endnotes">
 
@@ -451,7 +455,6 @@ World Health Organization. (2007). <em>Global Age-friendly Cities: A Guide</em>.
 
 </div>
 </div>
-
 
 ### Footnotes
 

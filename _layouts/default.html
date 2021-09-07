@@ -95,13 +95,23 @@
             </g>
           </svg>
         </button>
-        <div class="header__strip--1 strip strip--circles" role="presentation"></div>
-        <div class="header__strip--2 strip strip--lines" role="presentation"></div>
+        {% if page.layout == 'blog-index' or page.layout == 'blog' %}
+          <h1 class="header__blog--name">Blog</h1>
+          {% if page.layout == 'blog-index' %}
+          <h1 class="page__title header__blog--title">{{ page.title }}</h1>
+          {% endif %}
+          <div class="header__strip--1 strip strip--circles unless-mobile" role="presentation"></div>
+          <div class="header__strip--2 strip strip--lines" role="presentation"></div>
+
+        {% else %}
+          <div class="header__strip--1 strip strip--circles" role="presentation"></div>
+          <div class="header__strip--2 strip strip--lines" role="presentation"></div>
+        {% endif %}
       </div>
     </header>
     <main>
       <article class="page page--{{ page.layout }}">
-        {% unless page.layout == 'blog' %}
+        {% unless page.layout == 'blog' or page.layout == 'blog-index' %}
           <header>
             <h1 class="page__title">{{ page.title }}</h1>
           </header>

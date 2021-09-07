@@ -24,6 +24,8 @@ At the start of a new group when you have a handful of members and you meet regu
 
 Are there some downsides to this method? Of course. The rest of this article discusses some tips for mitigating these.
 
+{% include smallsignup.html custom="Sign up to our email list to receive articles like this directly into your inbox." %}
+
 ## Setting up stress-free email
 
 The main resistance to suggesting an email list apart from the initial effort cost is that most people find the volume of emails they get to be way too high. I've never quite understood this given the 'mass cc' default approach mentioned above. My best guess is either that people feel implementing an email list will somehow increase the amount of emails they receive, or a general resistance to any tech infrastructure. Older people I've worked with especially find their inbox to be almost unusable due to the amount of spam they receive. I think this is why sometimes the Slacks of the world seem like a good option: a clean slate. Give it a few months though and even with the best will, it'll just be another pile of notifications to ignore.
@@ -31,7 +33,7 @@ The main resistance to suggesting an email list apart from the initial effort co
 The problem needs fixing at the root. Email organisation is pretty simple and a few steps can drastically reduce your cognitive load and make checking email feel like less of a chore. Here's what I do:
 
 1. Turn off all notifications for email everywhere. Really. Countless studies have shown that real time notifications are a 'toxic source of stress' [^1]. While youre at it, try turning it off for social media for a few days. I think the sense of calm is immediately palpable. On Android you can swipe directly on push notifications to see settings to silence them.
-1. Unsubscribe *religiously* from email lists or mailouts you don't want to be on, by scrolling to the bottom and clicking 'unsubscribe'. If it doesn't have one, use your provider's 'mark as spam' option if it has one. It takes a little while to make a dent, but eventually this makes a huge difference to unwanted incoming mail.
+1. Unsubscribe _religiously_ from email lists or mailouts you don't want to be on, by scrolling to the bottom and clicking 'unsubscribe'. If it doesn't have one, use your provider's 'mark as spam' option if it has one. It takes a little while to make a dent, but eventually this makes a huge difference to unwanted incoming mail.
 1. Filter anything you don't want to pay active attention to into folders. This can sound a little intimidating but it's very simple when you get into the swing of it. This includes things like event invites, marketing emails you do want but don't want to read instantly, and yes, email lists. Gmail has very powerful filters for doing this. For example if you click the checkbox by an email and go to 'filter messages like these' in the '...' dropdown, you can add 'from:yourgroupname@googlegroups.com', 'skip inbox' and 'apply label' to set up a custom label. It's really that easy! you can then check once a week or whenever you have the headspace rather than getting every message.
 
 [^1]: [Psychologists warn constant email notifications are 'toxic source of stress', Daily Telegraph, 2016](https://www.telegraph.co.uk/news/2016/03/22/psychologists-warn-constant-email-notifications-are-toxic-source/)
@@ -63,3 +65,5 @@ Here's some tips:
 ---
 
 Email lists are by far the best method of communication for small groups, but require a little work on behalf of group members to be most effective. We spend an enormous about of time and energy sending emails nowadays. Taking a few minutes (or even an hour) to sort out your inbox will pay huge returns in workload and stress. Let us know if you have any other tips over on [Twitter!](https://twitter.com/gfscstudio)
+
+{% include kofi.html custom="Found this useful? Buy us a Ko-fi to support our work." %}

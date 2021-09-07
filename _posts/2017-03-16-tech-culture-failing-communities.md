@@ -23,6 +23,8 @@ American, and especially Californian audiences at this point might be pointing o
 
 Manchester (where I’m writing this) has a long and proud history of labour and human rights progress; I want to explore what this means from a technology culture perspective. I’m developing a manifesto to get back to this kinder, community-oriented tech culture I remember from my twenties. I’m calling it a Community Technology Partnership, or CTP. Starting to write about this, I’ve discovered that the rabbit hole is a lot deeper than I thought. As a result, I’m going to syndicate the development process so I can get feedback and generate discussion along the way. This is the first part. Following this will be more on the methodological principles, the overall aims and objectives, and information about two pilots I’m working on to develop the concept.
 
+{% include smallsignup.html custom="Enjoying this so far? Get more like this into your inbox by joining our mailing list." %}
+
 What follows is a list of overall values for a CTP manifesto. It was pointed out to me an event on [post-fact politics](http://www.postfactpolitics.com/) the other weekend that the former concepts are all human; the latter ones all inhuman or robotic and part of that Californian ideology that I critiqued at the start of this article. So maybe it really does all start on this basic, structural level.
 
 ## Complete > Perfect
@@ -136,5 +138,7 @@ This post is the start of a discussion about the axioms of the technology we pro
 * How can we get rid of you?
 
 Stay tuned for more on the CTP concept, including details on the pilots due to start in the next few months! Comments and suggestions welcomed with open arms. If you like, find out more about my work and practice on my agency site: [Geeks for Social Change](http://gfsc.network).
+
+{% include kofi.html custom="Buy us a Ko-fi so we can write more articles like this!" %}
 
 *Artwork by [Rebecca Michalak](http://www.remichalak.com/). Thanks to everyone who contributed to or gave feedback on this draft, and especially to [Erik Davis](https://twitter.com/erik_davis) for the reminder California is a big place.*

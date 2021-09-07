@@ -44,6 +44,8 @@ At the time of writing, the NHS are still waiting to start doing surgeries there
 
 By fixing this kind of problem at a root level, the eventual outputs can be very cheap to implement compared to any solution a single agency would devise, especially when considering total costs across multiple agencies. In fact, as anyone who has done enough community work knows, the main resource in this kind of situation can be time spent in meetings! In this case, compare the cost and maintenance of fitting a new toilet, as opposed to providing free bus passes or taxis and the health costs of an older population with no access to exercise facilities. This is a great example of how fixing an ongoing and hard-to-address issue has already begun to create neighbourhood *wellness —* in this case, filling a void in community provision that improves neighbourhood capability— rather than a symptom-based approach that would have tackled only the issues arising from the lack of suitable spaces.
 
+{% include smallsignup.html custom="Enjoy our long reads? Sign up here to get 'em directly into your mailbox." %}
+
 ---
 
 So how does this connect to PlaceCal? We’re getting there…
@@ -161,6 +163,8 @@ The event itself was a huge success with hundreds of people coming throughout th
 I hope this article has given you an insight into not just the PlaceCal design process, but what we hope is the groundwork for a more connected way of delivering technology in a community context. In future pieces I’ll cover what we have planned for PlaceCal in 2018, and document this methodology that we’re calling Community Technology Partnerships. As it happens, we’re also starting a bus service…
 
 If you want to keep up to date then you can follow us here, on [Twitter](https://twitter.com/placecal) or [Facebook](https://www.facebook.com/placecal). If you’re an organisation looking to get involved in the platform, or a neighbourhood partnership, health provider or local authority who would like to have a chat with us about rolling our PlaceCal in your area, don’t hesitate to contact us by email: [support@placecal.org](mailto:support@placecal.org). The PlaceCal design and illustration is by the awesome [Squid](http://studiosquid.co.uk/).
+
+{% include kofi.html custom="Wanna come to our next party? Join our mailing list to get the latest news from us first!" %}
 
 Last updated 16th April 2019
 {: .updated}

@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-{% assign author = site.data.authors[page.author] %}
+{% assign blogauthors = page.author | split: ", " %}
 <div class="blog">
   <div class="blog__content">
     <header>
@@ -18,13 +17,23 @@ layout: default
   </div>
 
   <aside class="blog__aside">
-    <time class="blog__meta" datetime="{{ page.date | date_to_long_string }}">{{ page.date | date_to_long_string }}</time>
-    <div class="blog__meta" rel="author">By {{ author.name }}</div>
-    <div class="blog__meta blog__meta--avatar">
-      <picture>
-        <img src="/assets/images/authors/{{ author.avatar }}"
-           alt="A photo of {{ page.author }}">
-      </picture>
+    <time class="blog__meta  blog__meta--date" datetime="{{ page.date | date_to_long_string }}">{{ page.date | date_to_long_string }}</time>
+    <div class="blog__meta blog__meta--author" rel="author">By
+      {% for blogauthor in blogauthors %}
+          {% assign author = site.data.authors[blogauthor] %}
+          {% if blogauthor == blogauthors.last %}
+            {{ author.name }}
+          {% else %}
+            {{ author.name }}, 
+          {% endif %}
+        {% endfor %}
+    </div>{% for blogauthor in blogauthors %}{% assign author = site.data.authors[blogauthor] %}<div class="blog__meta blog__meta--avatar">
+            <picture>
+              <img src="/assets/images/authors/{{ author.avatar }}"
+                alt="A photo of {{ author.name }}"
+                class="blog__meta--avatar--image">
+            </picture>
+          </div>{% endfor %}
     </div>
   </aside>
 </div>

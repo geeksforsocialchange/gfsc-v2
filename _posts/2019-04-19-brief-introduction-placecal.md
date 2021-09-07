@@ -60,6 +60,8 @@ The UK government and health sector is pushing for doctors and community workers
 
 [^5]: "DH pledges to roll out GP social prescribing across England by 2023", [GP Online (2018)](https://www.gponline.com/dh-pledges-roll-gp-social-prescribing-across-england-2023/article/1496121)
 
+{% include kofi.html custom="Support our community work by donating the price of a Ko-fi to us." %}
+
 ## How it works
 
 We designed PlaceCal as a new way of helping people understand what’s happening in their community. We realised we couldn’t just make an asset map, a directory, or a piece of software — it would require a fundamentally different way of thinking about community information, skills and training that brings everyone together to solve these issues.
@@ -106,6 +108,8 @@ Our most ambitious project yet was for Hulme’s 2018 Winter Festival, where we 
 
 
 {% include image.html description="The map of Hulme and Moss Side we made for Winter 2018's mailout" url="/assets/images/blog/brief-intro-placecal/3.png" class="" %}
+
+{% include smallsignup.html custom="Hear more about our projects by signing up to our email list." %}
 
 ## What are the benefits?
 

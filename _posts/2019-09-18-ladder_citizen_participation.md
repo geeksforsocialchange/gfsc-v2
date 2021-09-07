@@ -20,7 +20,7 @@ I realise a lot of this knowledge hasn't made it into mainstream tech discourse 
 
 The bottom two rungs of this are categorised as 'nonparticipation'. 'Manipulation' is a very common first step when organisations want to be _seen_ to involve communities, in which "people are placed on rubberstamp advisory committees or advisory boards for the express purpose of 'educating' them or engineering their support". 'Therapy' is a little harder to describe, and I'm not sure translates as well to today:
 
- > "In some respects group therapy, masked as citizen participation, should be on the lowest rung of the ladder because it is both dishonest and arrogant [...] people are brought together to help them 'adjust their values and attitudes to those of the larger society'", diverting them from the real issues ...
+> "In some respects group therapy, masked as citizen participation, should be on the lowest rung of the ladder because it is both dishonest and arrogant [...] people are brought together to help them 'adjust their values and attitudes to those of the larger society'", diverting them from the real issues ...
 
 I think therapy refers to where the focus is shifted off the actual focus. For example, is a lack of signups really a UX problem that needs a series of design workshops, or is it that your service sucks and no-one wants to use it? Would Facebook really need to run this ad campaign[^busstop] if they actually did care about data misuse?
 
@@ -31,6 +31,8 @@ I think therapy refers to where the focus is shifted off the actual focus. For e
 Despite how obvious these methods can seem, somehow the internal logic of large bureaucratic organisations manages to perpetually convince themselves that this works, that the product is fine and it is it the user that is at fault. Overall, in every community I've worked in this has led to 'consultation fatigue'. Community memory is much, much longer than any funded project, webapp, or commission. People will and do notice if your engagement process, however well designed, has no actual potential to change whatever it is you're developing.
 
 {% include image.html description="Every big tech company" url="/assets/images/blog/arnstein/simpsons.jpg" class="frame" %}
+
+{% include kofi.html custom="Buy us a Ko-fi to fuel the writing of more articles like this." %}
 
 ## Tokenism
 
@@ -58,9 +60,9 @@ I think the better tech initiatives fall into this category: well meaning, but f
 
 At the top of the ladder is what I believe to be the only way to achieve genuine progressive social change, direct citizen participation with the groups and people you are seeking to help. The three forms of this: 'partnership', 'delegated power' and 'citizen control' to me mostly refer to exactly how far power is delegated: from control over the budgets and project outlines of a few dedicated programs, to total power over entire commissions. Briefly:
 
-* Partnership: "Power is ... redistributed through negotiation between citizens and powerholders. They agree to share planning and decision-making responsibilities through such structures as joint policy boards, planning committees and mechanisms for resolving impasses."
-* Delegated power: "Negotiations between citizens and public officials result in citizens achieving dominant decision-making authority over a particular plan or program ... Citizens hold the significant cards to assure accountability of the program to them. Powerholders need to start the bargaining process rather than respond to pressure from the other end."
-* Citizen control: "A degree of power (or control) which guarantees that participants can govern a program or an institution, [and] be in full charge of policy and managerial aspects ... A neighbourhood corporation with no intermediaries between it and the source of funds is the model most frequently advocated."
+-  Partnership: "Power is ... redistributed through negotiation between citizens and powerholders. They agree to share planning and decision-making responsibilities through such structures as joint policy boards, planning committees and mechanisms for resolving impasses."
+-  Delegated power: "Negotiations between citizens and public officials result in citizens achieving dominant decision-making authority over a particular plan or program ... Citizens hold the significant cards to assure accountability of the program to them. Powerholders need to start the bargaining process rather than respond to pressure from the other end."
+-  Citizen control: "A degree of power (or control) which guarantees that participants can govern a program or an institution, [and] be in full charge of policy and managerial aspects ... A neighbourhood corporation with no intermediaries between it and the source of funds is the model most frequently advocated."
 
 By way of example, [PlaceCal](https://placecal.org/) came out of a 'citizen control' project managed by GFSC's Prof Stefan White called [Manchester Age Friendly Neighbourhoods](http://msaphase.org/work/manchester-age-friendly-neighbourhoods/) (MAFN). This project gained funding to spend over four years on making four areas of Manchester more age friendly[^areas]. The approach, on paper, was simple: hire the minimum staff needed to develop a partnership, manage the project and produce an evaluation over the four years, and then allocate all the rest to the partnerships (44% or £324,000) to decide what they wanted to spend it on.
 
@@ -79,3 +81,5 @@ Aiming for full citizen participation is very hard work and will become the whol
 Of course, this approach isn't always relevant. If your primary purpose is commercial, or your objectives don't involve citizen participation, then another approach is needed. However if, like us, you are attempting to create interventions on behalf of the most isolated and vulnerable in society, we think there is no other way of getting things done.
 
 _Got any comments or suggestions? Let us know [on Twitter @gfscstudio](https://twitter.com/gfscstudio)._
+
+{% include smallsignup.html custom="Sign up to our mailing list to get our latest articles delivered straight to your inbox." %}
