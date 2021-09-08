@@ -2,7 +2,7 @@
 layout: blog
 title: We're hiring!
 subtitle: Backend or full stack Rails developer needed for community web project
-description: "We've worked with No Borders Manchester to create a tool for people seeking asylum in the UK. We're launching it today and have plans to use it to support many other vulnerable groups."
+description: "Geeks for Social Change are looking for a backend or full stack Ruby on Rails developer to work 24 hours a week. The initial focus of your work will be PlaceCal, our award-winning community calendar platform"
 author: kim
 ---
 
