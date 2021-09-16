@@ -13,7 +13,7 @@ jazz:
   job: Web developer
   avatar: jazz-chatfield@400.jpg
   pronouns: he/they
-  in_team: true
+  in_team: false
   bio: |
     Jazz is a web developer who specialises in making neurodivergent-friendly systems to help people collaborate and communicate better together. His care and attention to detail helps him understand the needs of clients to find the solution that is right for them. They used to be an announcer at a major train station, and are currently on extended hiatus from working in the arts and in comedy. Everyone is begging him to return, but each time, he says, "No, I just love tech too much" and rides off on his electric scooter.
 emma:
