@@ -6,6 +6,8 @@ description: "Geeks for Social Change are looking for a backend or full stack Ru
 author: kim
 ---
 
+**Update 11/10/21: this role is now filled!**
+
 Geeks for Social Change are looking for a backend or full stack Ruby on Rails developer to work 24 hours a week. 
 
 The initial focus of your work will be [PlaceCal](https://placecal.org/). PlaceCal is an award-winning community calendar platform, initially developed for older people living in Manchester. By using a mutual aid and capability approach to technology, we developed a complete package that tackles the causes of social isolation at the root, combining community development work, software, and a strategy that works with existing community groups and public sector teams. 
