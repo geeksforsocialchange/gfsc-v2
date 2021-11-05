@@ -26,7 +26,7 @@ layout: default
             {% if blogauthor == blogauthors.last and blogauthor == blogauthors.first %}
             {{ author.name }}
             {% elsif blogauthor == blogauthors.last %}
-              <span>& {{ author.name }}</span>
+              <span>{{ author.name }}</span>
             {% elsif blogauthor == blogauthors.first %}
               {{ author.name }},
             {% else %}
