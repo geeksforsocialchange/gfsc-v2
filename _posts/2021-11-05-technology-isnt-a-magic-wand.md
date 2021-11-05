@@ -31,11 +31,15 @@ It fitted in that gap between "I need that!" and "But do I really?", the gap tha
 
 But a lot of inventions of this era were seemingly designed to fit in this _Innovations_ sized-hole. The promise that all of society's smallest problems could be improved by upscaling your toaster was an intoxicating one.
 
-{% include image.html alt="Scan of an Innovations product called 'Scare Cat', a fake cat with glowing eyes for your garden." description="a beautifully simple way to help solve the problem for just £4.95" url="/assets/images/blog/technology-isnt-a-magic-wand/scarecat.jpg" class="float" %}
+---
 
-Move on a bit, to the present day, and Amazon is the world's _Innovations_ catalogue, and many of the sales models used by startup tech businesses are based on this direct mail marketing approach. This includes Russel Brunson's hugely influential _"Dotcom Secrets: The Underground Playbook for Growing Your Company Online",_ a book partially responsible for almost every irritating online sales trick you see today, and others like it such as Eric Ries' "_The Lean Startup"_.
+{% include image.html alt="Scan of an Innovations product called 'Scare Cat', a fake cat with glowing eyes for your garden." description="Some items listed barely pass as innovations.[^1]" url="/assets/images/blog/technology-isnt-a-magic-wand/scarecat.jpg" class="float" %}
 
-These approaches, combined, outline a methodology for making products in a distinctly _Innovations_-y way: Find a tiny thing that people might want. Build a product to fill the gap. And price it so that it seems impossible to refuse.
+Move on a bit, to the present day, and Amazon is the world's _Innovations_ catalogue.
+
+Many of the sales models used by startup tech businesses are based on this direct mail marketing approach. This includes Russell Brunson's hugely influential _"Dotcom Secrets: The Underground Playbook for Growing Your Company Online",_ a book partially responsible for almost every irritating online sales trick you see today, and others like it such as Eric Ries' "_The Lean Startup"_.
+
+These approaches, combined, outline a methodology for making products in a distinctly _Innovations_-y way: Find a tiny thing that people might want. Build a product that promises to fill the gap. And price it so that it seems impossible to refuse.
 
 Do people actually need it? Or does it accelerate our planet further towards destruction while doing nothing to fix any real problems? Who fucking cares. It's innovation, so therefore morally neutral, or even by default good. Everyone loves innovation! Who doesn't love innovation? Don't you know what innovation has done for you, personally? Look at what we can do!
 
@@ -43,7 +47,7 @@ This idea is been so persistent that it's the only real concept most people have
 
 Due to the massive amounts of money and hubris that reside in the tech sector, we now seem to believe that the same methodology used to sell pens that write upside down with a built-in dictaphone can somehow be adapted to fixing homelessness, or poverty or something.
 
-{% include image.html alt="Scan of an Innovations product called 'Securi-Gnome', a garden gnome with a body heat sensor." description="He can be pegged down into the earth" url="/assets/images/blog/technology-isnt-a-magic-wand/securignome.jpg" class="center" %}
+{% include image.html alt="Scan of an Innovations product called 'Securi-Gnome', a garden gnome with a body heat sensor." description="Securi-Gnome: \"He can be pegged down into the earth\"[^1]" url="/assets/images/blog/technology-isnt-a-magic-wand/securignome.jpg" class="center" %}
 
 ---
 
@@ -53,16 +57,27 @@ Fixing difficult social problems, or any problems other than the utterly trivial
 
 People expect tech to be a magic wand: wave it and fix a problem. But for any serious problem, this doesn't work. In the same way owning a set of spanners doesn't automatically make you a car mechanic, much less able to run a garage. And yet, policymakers seem to think all they have to do is buy spanners (with dictaphones and clock radios built in of course) and somehow the cars will get fixed by magic.
 
-The worst part is that this is now the world those of us engaged in on-the-ground communities and mutual aid groups have to deal with. We're seeing a wave of people come in who just want to fix things with Design Thinking or Human Centred Design, and their new set of Internet of Things-enabled spanners. People who inevitably lose interest when they realise they can't just design these things away, and that communities don't actually have any loose bolts we can't tighten ourselves, we just don't have the time or resources to tighten them. Or worse, they hit on a way to extract money from these communities, and become very successful from it.
+The worst part is that this is now the world those of us engaged in on-the-ground communities and mutual aid groups have to deal with. We're seeing a wave of people come in who just want to fix things with Design Thinking or Human Centred Design, and their new set of Internet of Things-enabled spanners.
 
-On the community level, we are always dealing with gnarly problems — problems that are eminently fixable by a great team and with a good plan. Devices are secondary. Think of an excavation team. We like nice gadgets, sure, but we also have a team who knows how to use them. Archaeology changes slowly as they get new devices. But the core work of excavating a dig site doesn't. _That_ is the technology. With all the lasers in the world you still need a team of people with trowels and brushes who know what they're doing. And you always will.
+People who inevitably lose interest when they realise they can't just design these things away, and that communities don't actually have any loose bolts we can't tighten ourselves, we just don't have the time or resources to tighten them. Or worse, they hit on a way to extract money from these communities, and become very successful from it.
 
-{% include image.html alt="Scan of an Innovations product called 'Spider Catcher', a finger-tripped operated grabber for home spiders." description="We think its a real winner!" url="/assets/images/blog/technology-isnt-a-magic-wand/spidercatcher.jpg" class="center" %}
+On the community level, we are always dealing with gnarly problems — problems that are eminently fixable by a great team and with a good plan. Devices are secondary.
+
+---
+
+Imagine you're planning an archeological excavation. Nicer gadgets are helpful, sure, but you'd also need a team who knows how to use them.
+
+Archaeology changes slowly over time as new technology facilitates advances in the field. But the core work of excavating a dig site doesn't. _That_ is the technology.
+
+With all the lasers and 3D printers in the world, you still need a team of people with trowels and brushes who know what they're doing. And you always will.
+
+{% include image.html alt="A Photoshopped satire of an Innovations magazine listing of the Ocular Device from the film National Treasure, starring Nicolas Cage." description="Jazz spent four days procrastinating on the editorial for this article but somehow made this in ten minutes.[^2]" url="/assets/images/blog/technology-isnt-a-magic-wand/oculardevice.png" class="center" %}
 
 ---
 
 ### Acknowledgements
 
-Words by Dr Kim Foale. Editorial and literary spice by Jazz Chatfield. Illustration by [Emma Charleston](https://www.emmacharleston.co.uk/). Innovation scans taken from [Nick Biggs, _Innovations Catalogue_, 2004 ISBN-13 978-0747573463](https://www.bloomsbury.com/au/innovations-catalogue-9780747573463/).
+Words by Dr Kim Foale. Literary spice and Nicolas Cage content by Jazz Chatfield. Illustration by [Emma Charleston](https://www.emmacharleston.co.uk/). Innovation scans taken from [Nick Biggs, _Innovations Catalogue_, 2004 ISBN-13 978-0747573463](https://www.bloomsbury.com/au/innovations-catalogue-9780747573463/).
 
 [^1]: [Nick Biggs, _Innovations Catalogue_, 2004 ISBN-13 978-0747573463](https://www.bloomsbury.com/au/innovations-catalogue-9780747573463/).
+[^2]: Obviously, this isn't a real listing, but it fooled Kim until the third read-through. From _National Treasure_ (2004).
