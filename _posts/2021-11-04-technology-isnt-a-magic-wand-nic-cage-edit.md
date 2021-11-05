@@ -1,5 +1,5 @@
 ---
-title: "Technology isn't a magic wand, it's a treasure map."
+title: "Technology isn't a magic wand, it's a treasure map written in invisible ink."
 layout: blog
 subtitle: ...And you still need the right team to get you to that red X.
 description: Due to the massive amounts of money and hubris that reside in the tech sector, we now seem to believe that the same methodology used to sell pens that write upside down with a built-in dictaphone can somehow be adapted to fixing homelessness, or poverty or something.
@@ -25,13 +25,13 @@ _Innovations_ gave a spotlight to niche 'inventions' that aimed to solve mundane
 
 {% include image.html alt="Scan of an Innovations product called 'Chin Gym'." description="Evidence of this is largely not online but I was able to pick up a paperback of some of the best bits.[^1]" url="/assets/images/blog/technology-isnt-a-magic-wand/chingym.jpg" class="center" %}
 
-These things were often laughable, and I think that was the point. They were just fun sounding _things_, things you don't know how you'd lived without until now, things that didn't actually solve any real problems anyone had.
+These things were often laughable, and I think that was the point. They were just fun sounding _things_, things you don't know how you'd lived without until now, things that didn't actually solve any real problems anyone had. Anything could be an innovation if you looked at it in the right light: 3D glasses, invisible ink.
 
 It fitted in that gap between "I need that!" and "But do I really?", the gap that is probably responsible for killing off the catalogue in the pre-online era, with its built-in cooling-off period during the time it took to mail in a form or call a phone operator.
 
 But a lot of inventions of this era were seemingly designed to fit in this _Innovations_ sized-hole. The promise that all of society's smallest problems could be improved by upscaling your toaster was an intoxicating one.
 
-{% include image.html alt="Scan of an Innovations product called 'Scare Cat', a fake cat with glowing eyes for your garden." description="a beautifully simple way to help solve the problem for just £4.95" url="/assets/images/blog/technology-isnt-a-magic-wand/scarecat.jpg" class="float" %}
+{% include image.html alt="Scan of an Innovations product called 'Scare Cat', a fake cat with glowing eyes for your garden." description="Some items listed barely pass as innovations.[^1]" url="/assets/images/blog/technology-isnt-a-magic-wand/scarecat.jpg" class="float" %}
 
 Move on a bit, to the present day, and Amazon is the world's _Innovations_ catalogue, and many of the sales models used by startup tech businesses are based on this direct mail marketing approach. This includes Russel Brunson's hugely influential _"Dotcom Secrets: The Underground Playbook for Growing Your Company Online",_ a book partially responsible for almost every irritating online sales trick you see today, and others like it such as Eric Ries' "_The Lean Startup"_.
 
@@ -43,7 +43,7 @@ This idea is been so persistent that it's the only real concept most people have
 
 Due to the massive amounts of money and hubris that reside in the tech sector, we now seem to believe that the same methodology used to sell pens that write upside down with a built-in dictaphone can somehow be adapted to fixing homelessness, or poverty or something.
 
-{% include image.html alt="Scan of an Innovations product called 'Securi-Gnome', a garden gnome with a body heat sensor." description="He can be pegged down into the earth" url="/assets/images/blog/technology-isnt-a-magic-wand/securignome.jpg" class="center" %}
+{% include image.html alt="Scan of an Innovations product called 'Securi-Gnome', a garden gnome with a body heat sensor." description="Securi-Gnome: \"He can be pegged down into the earth\"[^1]" url="/assets/images/blog/technology-isnt-a-magic-wand/securignome.jpg" class="center" %}
 
 ---
 
@@ -53,16 +53,28 @@ Fixing difficult social problems, or any problems other than the utterly trivial
 
 People expect tech to be a magic wand: wave it and fix a problem. But for any serious problem, this doesn't work. In the same way owning a set of spanners doesn't automatically make you a car mechanic, much less able to run a garage. And yet, policymakers seem to think all they have to do is buy spanners (with dictaphones and clock radios built in of course) and somehow the cars will get fixed by magic.
 
-The worst part is that this is now the world those of us engaged in on-the-ground communities and mutual aid groups have to deal with. We're seeing a wave of people come in who just want to fix things with Design Thinking or Human Centred Design, and their new set of Internet of Things-enabled spanners. People who inevitably lose interest when they realise they can't just design these things away, and that communities don't actually have any loose bolts we can't tighten ourselves, we just don't have the time or resources to tighten them. Or worse, they hit on a way to extract money from these communities, and become very successful from it.
+The worst part is that this is now the world those of us engaged in on-the-ground communities and mutual aid groups have to deal with. We're seeing a wave of people come in who just want to fix things with Design Thinking or Human Centred Design, and their new set of Internet of Things-enabled spanners. People like Sean Bean's character in _National Treasure_, opportunistic glory hunters who think they can parachute in and solve a conundrum that communities have been working at their whole lives.
 
-On the community level, we are always dealing with gnarly problems — problems that are eminently fixable by a great team and with a good plan. Devices are secondary. Think of an excavation team. We like nice gadgets, sure, but we also have a team who knows how to use them. Archaeology changes slowly as they get new devices. But the core work of excavating a dig site doesn't. _That_ is the technology. With all the lasers in the world you still need a team of people with trowels and brushes who know what they're doing. And you always will.
+People who inevitably lose interest when they realise they can't just design these things away, and that communities don't actually have any loose bolts we can't tighten ourselves, we just don't have the time or resources to tighten them. Or worse, they hit on a way to extract money from these communities, and become very successful from it.[^3]
 
-{% include image.html alt="Scan of an Innovations product called 'Spider Catcher', a finger-tripped operated grabber for home spiders." description="We think its a real winner!" url="/assets/images/blog/technology-isnt-a-magic-wand/spidercatcher.jpg" class="center" %}
+On the community level, we are always dealing with gnarly problems — problems that are eminently fixable by a great team and with a good plan. Devices are secondary. If we're lacking something, it's probably staff, time or money, all of which are more expensive in various ways than most technology. It's tempting to pin all your hopes on a £10 monthly software-as-a-service subscription, or a new device, or new software, because that'd be easier, wouldn't it?
+
+---
+
+Think of Nicolas Cage's character in _National Treasure_. He might need shiny gadgets in order to find the treasure mapped out in invisible ink on the back of the Declaration of Independence, sure. But more than that, he needs a team who knows how to use them to their best advantage.
+
+Archeology changes slowly as new technology is invented. But the core work - stealing the Declaration of Independence, warding off Sean Bean, and evading the authorities - doesn't. _That_ is the technology.
+
+With all the Ocular Devices in the world you still need a team of people with torches and smarts who know what they're doing. And you always will.
+
+{% include image.html alt="A Photoshopped satire of an Innovations magazine listing of the Ocular Device from the film National Treasure, starring Nicolas Cage." description="Jazz spent four days procrastinating on the editorial for this article then made this in ten minutes pursuing a flash of inspiration.[^2]" url="/assets/images/blog/technology-isnt-a-magic-wand/oculardevice.png" class="center" %}
 
 ---
 
 ### Acknowledgements
 
-Words by Dr Kim Foale. Editorial and literary spice by Jazz Chatfield. Illustration by [Emma Charleston](https://www.emmacharleston.co.uk/). Innovation scans taken from [Nick Biggs, _Innovations Catalogue_, 2004 ISBN-13 978-0747573463](https://www.bloomsbury.com/au/innovations-catalogue-9780747573463/).
+Words by Dr Kim Foale. Literary spice, mixed metaphors and Nicolas Cage references by Jazz Chatfield. Illustration by [Emma Charleston](https://www.emmacharleston.co.uk/). Innovation scans taken from [Nick Biggs, _Innovations Catalogue_, 2004 ISBN-13 978-0747573463](https://www.bloomsbury.com/au/innovations-catalogue-9780747573463/).
 
 [^1]: [Nick Biggs, _Innovations Catalogue_, 2004 ISBN-13 978-0747573463](https://www.bloomsbury.com/au/innovations-catalogue-9780747573463/).
+[^3]: Or, like Sean Bean, they cut too many corners and get locked up by the FBI.
+[^2]: Obviously, this isn't a real listing, but it fooled Kim until the third readthrough.
