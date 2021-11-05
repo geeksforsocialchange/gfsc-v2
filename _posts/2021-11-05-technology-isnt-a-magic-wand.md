@@ -21,7 +21,7 @@ If permitted to take up space in a more general-purpose living room, they would 
 
 ---
 
-{% include image.html alt="Scan of an Innovations product called 'Chin Gym'." description="Evidence of this is largely not online but I was able to pick up a paperback of some of the best bits.[^1]" url="/assets/images/blog/technology-isnt-a-magic-wand/chingym.jpg" class="frame image--center" %}
+{% include image.html alt="Scan of an Innovations product called 'Pocket Chainsaw'." description="Evidence of this is largely not online but I was able to pick up a paperback of some of the best bits.[^1]" url="/assets/images/blog/technology-isnt-a-magic-wand/pocketchainsaw.jpg" class="frame image--center" %}
 
 _Innovations_ gave a spotlight to niche 'inventions' that aimed to solve mundane problems with over-the-top gadgetry. Palm pilots and calculator watches and clock radio toilet roll holders. (_Everything_ had a clock radio.)
 
