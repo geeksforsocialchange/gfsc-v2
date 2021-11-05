@@ -68,9 +68,6 @@ figcaption, .infobox
 .image--3 .image__wrapper
   grid-template-columns: repeat(3, 1fr)
 
-.image--center
-  text-align: center
-
 .image--scale-down
   img
     width: 50%
@@ -97,9 +94,20 @@ figcaption, .infobox
   +for-tablet-portrait-up
     float: left
     width: 40%
-    margin-right: 1rem
+    margin-right: 2rem
     margin-left: -4rem
   +for-tablet-landscape-up
     margin-left: -1.5rem
   +for-big-desktop-up
     margin-left: -5rem
+
+.image--center
+  margin: auto
+  width: fit-content
+  text-align: right
+  display: table
+  .image__wrapper
+    text-align: center
+  figcaption
+    display: table-caption
+    caption-side: bottom
