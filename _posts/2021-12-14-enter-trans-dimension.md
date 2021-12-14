@@ -48,7 +48,7 @@ These barriers prevent trans people from meeting each other and developing frien
 
 The Trans Dimension will be a shared, community-owned system which many providers can contribute to—removing the need for cross-checking. It will help people find trans-friendly events and build a wider sense of community. The Trans Dimension will enable even the smallest community groups to have an equal online presence & advertise events alongside larger groups. 
 
-We've worked with both GI staff and Greater Manchester Coalition of Disabled People to create a care-based guide to inclusion and accessibility for trans and disabled people and we'll be sharing the results in the coming months.
+We've worked with both GI staff and [Greater Manchester Coalition of Disabled People](https://gmcdp.com/) to create a care-based guide to inclusion and accessibility for trans and disabled people and we'll be sharing the results in the coming months.
 
 Listings will be moderated centrally by a dedicated staff member at Gendered Intelligence, meaning listings will be relevant and up-to-date. Putting on events is hard and often thankless, and there's very little support for you out there. We hope that we can use The Trans Dimension to support all these groups and create a network of people working together on trans liberation.
 
