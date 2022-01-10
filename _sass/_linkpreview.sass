@@ -1,0 +1,67 @@
+.linkpreview__wrapper
+  border: 2px solid $primary
+  padding: 1rem 1.5rem 1rem
+
+.linkpreview
+  text-decoration: none
+  a
+    text-decoration: none
+  &__title 
+    font-size: 1.111111rem
+    font-weight: bold
+    &:hover
+      text-decoration: underline
+  &__description, &__url
+    font-size: 0.777778rem
+  &__description
+    color: rgba(86, 85, 68, 70%)
+  &__url
+    padding-top: 0.5rem
+    color: $primary
+    font-weight: 500
+    &:hover
+      text-decoration: underline
+  
+  +for-tablet-portrait-up
+    &__fullimage
+      display: none
+    display: grid
+    grid-template-areas: "title title" "description image" "url url"
+    grid-template-columns: 1fr 40%
+    &__title
+      grid-area: title
+    &__image
+      grid-area: image
+    &__description
+      grid-area: description
+    &__url
+      grid-area: url
+    &__bgimage
+      background-repeat: no-repeat
+      background-size: cover
+      background-position: 50% 50%
+      min-height: 150px
+  +for-tablet-landscape-up
+    display: grid
+    grid-template-areas: "title image" "description image" "url image"
+    grid-template-columns: 1fr 40%
+    &__wrapper
+      padding: 0
+    &__title
+      padding: 0.5rem 1rem
+    &__image
+      display: grid
+      // img
+      //   padding-left: 0
+      //   width: auto
+      //   align-self: center
+      //   justify-self: center
+    &__description
+      padding: 0rem 1rem 1rem
+    &__url
+      padding: 0.5rem 1rem
+    &__title, &__description
+      border-bottom: 2px solid $primary
+    &__image
+      border-left: 2px solid $primary
+      height: 100%
