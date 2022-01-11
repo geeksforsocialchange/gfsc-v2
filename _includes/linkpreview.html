@@ -1,0 +1,21 @@
+<div class="linkpreview__wrapper" markdown="0">
+  <a href="{{ link_url }}" target="_blank" class="linkpreview">
+    <h2 class="linkpreview__title">
+      {{ link_title }}
+    </h2>
+
+    <div class="linkpreview__image">
+      <img src="{{ link_image }}" role="presentation" class="linkpreview__fullimage">
+      <div style="background-image: url({{ link_image }})" class="linkpreview__bgimage">
+      </div>
+    </div>
+
+    <div class="linkpreview__description">
+      {{ link_description | truncate: 200 }}
+    </div>
+
+    <div class="linkpreview__url">
+      {{ link_url }}
+    </div>
+  </a>
+</div>
