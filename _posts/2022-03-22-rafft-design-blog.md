@@ -62,7 +62,7 @@ We started off by asking what the narrative order of the site might be. How do u
 
 {% include image.html alt="One zoomed in coloured block. Text reads: What is the 'town square' of the site? What is the site centered around - a key navigation functionality that users will centre their explorations around? If we are going to centre the site around 'themes', how are these navigated?" url="/assets/images/blog/raftt-1/3.jpg" class="frame image--center" %}
 
-Kim has written in the past ([https://cassowaryproject.org/visualising-qualitative-data-on-maps/](https://cassowaryproject.org/visualising-qualitative-data-on-maps/)) about why ‘pincushion maps’ are a bad idea, and indeed we are keen to avoid this approach here. Our previous local history site Hulme History ([http://hulmehistory.info/](http://hulmehistory.info/)) was centred around a map, but also around a chronology, and aimed to show how the map had changed and developed over time. 
+Kim has [written in the past](https://cassowaryproject.org/visualising-qualitative-data-on-maps/) about why ‘pincushion maps’ are a bad idea, and indeed we are keen to avoid this approach here. Our previous local history site Hulme History ([http://hulmehistory.info/](http://hulmehistory.info/)) was centred around a map, but also around a chronology, and aimed to show how the map had changed and developed over time. 
 
 {% include smallsignup.html custom="Sign up to our mailing list to get updates on our innovative local history work." %}
 
