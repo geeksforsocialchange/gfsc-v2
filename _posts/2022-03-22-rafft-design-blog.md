@@ -30,7 +30,7 @@ The first of several local history projects we have coming up is a collaboration
 
 So, on the brink of the demolition proceedings, FCHO saw an opportunity to do some real outreach and get closer relationships with their customers.  We worked with them to apply for funding from the National Lottery Heritage Fund that would expand that work into a hyperlocal digital history project.
 
-FCHO bought together key local stakeholders from Oldham Archives, the Colosseum Theatre, and OL1 Oldham community group. Through the magic of the GFSC collective, [Colleen Morgan](https://colleen-morgan.com/) (part of the [Black Trowel Anarchist Archeology Collective](https://blacktrowelcollective.wordpress.com/)) recruited her MA student Sam Benbow to help us navigate this tricky project as part of her dissertation research.
+FCHO bought together key local stakeholders from Oldham Archives, the Colosseum Theatre, and OL1 Oldham community group. Through the magic of the GFSC collective, [Colleen Morgan](https://colleen-morgan.com/) (part of the [Anarchist Archaeologist Black Trowel Collective](https://blacktrowelcollective.wordpress.com/)) recruited MA student Sam Benbow to help us navigate this tricky project as part of her dissertation research.
 
 ## Gathering data
 
@@ -108,7 +108,8 @@ With this in mind, we are thinking of our content as easy to consume, bitesize �
 
 We returned again to thinking about narrative — the story the site tells at any individual moment, no matter where an individual is in their exploration of it.
 
-{% include image.html alt="" url="/assets/images/blog/raftt-1/6.jpg" class="frame image--center" %}
+{% include image.html alt="Text reading: How do users navigate through the site?
+What is the hierarchy with which we display different aspects of content for this project? Introduction (general overview to site, accessible at all times) Theme (broad themes seen across the data set) Individual item (image, video, audio, written testimonial) Person (who said/gave us this?) Group/campaign (are they affiliated with any groups or campaigns?) When (what era is it from, when exactly did it happen?) Geographic data (where relevant — situate on a map for context) Conclusion (if we can draw any!) The complexity and depth of navigation on the site may depend on how much content there is to explore" url="/assets/images/blog/raftt-1/6.jpg" class="frame image--center" %}
 
 All stories start from a beginning — an anchoring point to get you into it, even if the project is, as discussed, not in chronological order. We will need to figure out how this overall introduction and starting point manifests itself.
 
