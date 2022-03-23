@@ -1,7 +1,7 @@
 ---
-title: "Community digital history design journal"
+title: "RAFTT design diary #1"
 layout: blog
-subtitle: Exploring the best way to co-produce local history projects
+subtitle: Co-designing a local history archive with Oldham residents
 description: We are currently in the early stages of working on a number of local history projects, and are trying to come up with some shared tech we can use across all of them. I felt felt that this might be a great project to share a sort of ‘design diary’/’work in progress story’ of, as we go along. 
 author: emma, kim
 illustrator: emma
@@ -10,13 +10,15 @@ social-image-wide: blog/raftt-1/cover.jpg
 
 {% include image.html alt="An abstract image featuring a black and white shot of some mills with some white lines and coloured blobs on the top suggesting a user interface" url="/assets/images/blog/raftt-1/cover.jpg" class="" %}
 
-Local history is an area GFSC have done a lot of work in, and we have long been excited by the incredible stories that often otherwise remain untold. At GFSC, we want to find ways of telling and sharing these stories which are compelling, well built, and easy to use, and crucially, remain in the hands of the communities they are centred around. 
+Local history is an area GFSC have done a lot of work in. Every neighbourhood on Earth has a plethora of stories that are completely unknown outside it. At GFSC we want to find ways of telling and sharing these stories which are compelling, well presented, accessible, easy to use, and crucially are designed and owned directly by the communities they're made with. 
 
-Some of this work predates GFSC as a studio / collective and infuses our DNA. This includes [The Cassowary Project](https://cassowaryproject.org/) which explored Sylvia and Kim’s experiences doing local history in Hulme; [Hulme History](http://hulmehistory.info/), a collaboration with urbanism co-op Urbed where we digitized their archive, made a website for it, and helped get it into the local archive; [Dear Friend](http://dearfriend.org.uk/), a project encouraging people to write to inspiring women in history that they had a personal connection to; and most recently [a community history day](https://gfsc.studio/2020/05/19/manchester-community-histories-urban-regeneration.html) working with our friends [The Old Abbey Taphouse](http://www.theoldabbeytaphouse.co.uk/).
+Some of this work predates GFSC as a studio collective and infuses our DNA. This includes [The Cassowary Project](https://cassowaryproject.org/) which explored Sylvia and Kim’s experiences doing local history in Hulme; [Hulme History](http://hulmehistory.info/), a collaboration with urbanism co-op Urbed where we digitized their archive, made a website for it, and helped get it into the local archive; [Dear Friend](http://dearfriend.org.uk/), a project encouraging people to write to inspiring women in history that they had a personal connection to; and most recently [a community history day](https://gfsc.studio/2020/05/19/manchester-community-histories-urban-regeneration.html) working with our friends [The Old Abbey Taphouse](http://www.theoldabbeytaphouse.co.uk/).
 
 From doing this work we know first hand how much the community history of structurally disadvantaged areas can often be overlooked and lost, which often prevents people from being able to make sense of where they are and the impact of the state on their own community. By sharing memories of place and experience, a greater sense of solidarity, connection, and community can be fostered amongst residents — past, present and future. There is also much to be learnt from histories, and by thinking and talking about what has happened in the past, we can reflect and learn, understand forces that often are outside our control, and help focus efforts for community-led social change.
 
 ## What are we trying to build
+
+As anyone who has tried to do it can attest, genuine co-production is _really hard_, especially when youre making something totally new. It can represent a kind of Western movie standoff where two gunmen, pistols drawn, take it in turns to say "what can you offer"... "well what can you do?", forever. If you put something too specific in front of people, like a hammer, all of a sudden all problems look like nails. But if you don't have anything to show, there is no potential to get a shared understanding of the problem and people don't really know why you're there. We therefore need to design something specific enough to get people excited, but vague and flexible enough not to put the cart before the horse. A lot easier said than done!
 
 Ultimately, we want to create public history archives that allow the communities concerned to easily and accessibly explore and understand their own history. We want them to be able to enjoy photographs, maps, newspaper articles, letters, and all kinds of other physical artefacts, without degrading the original artefacts (as physical handling of them would do — one advantage digital archives have, as a companion to physical ones). We also want them to hear the stories of their neighbours (past and present) in their own words. This usually wouldn’t be possible without a concerted effort to collect and curate these stories in collaboration with their tellers, so this is what we aim to do.
 
