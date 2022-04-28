@@ -34,7 +34,7 @@ We are looking for a community development officer who has:
 - Desirable: experience working with a software team to deliver a SaaS project. This includes writing bug tickets, understanding general Agile project flow, communicating when things go wrong, etc.
 - Desirable: existing strong connections to activist organising in Greater Manchester. We would love to have someone already known to our initial cohorts who can hit the ground running.
 
-Experience matters less to us than cultural fit, motivation and passion. We are looking to form long term relationships with committed people. You would be working with two other developers on this project. A lot of the work will be done solo but there are opportunities for collaboration, idea sharing, working out problems together.
+Experience matters less to us than cultural fit, motivation and passion. We are looking to form long term relationships with committed people. You will be working with two other people on this project: a project manager, and the same role as this for the South of England. A lot of your day-to-day work will be done solo but there are opportunities for collaboration, idea sharing, working out problems together.
 
 Given the nature of the work we especially welcome applications from trans and non binary people, people of colour, disabled people, and other marginalised groups. We are based in Manchester and our initial focus is Greater Manchester, but we would welcome applications from people who are part of activist partnerships in other cities.
 
