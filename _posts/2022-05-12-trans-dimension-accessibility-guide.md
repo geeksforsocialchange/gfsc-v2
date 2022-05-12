@@ -2,7 +2,7 @@
 layout: blog
 title: The Trans Dimension Guide to Inclusive Events
 subtitle: A first look at our new zine on making events more inclusive for everyone
-description: "When we asked our collaborators for affirming or positive experiences they’ve had at events we heard “The best I've had is mediocre.” We want to believe that this is not because of a lack of understanding and responsibility, but for a lack of guidance and resources."
+description: "When we asked our collaborators for affirming or positive experiences they’ve had at events we heard “the best I've had is mediocre.” We want to believe that this is not because of a lack of understanding and responsibility, but for a lack of guidance and resources."
 author: kim
 social-image-wide: blog/transdimension/transdimension.png
 ---
