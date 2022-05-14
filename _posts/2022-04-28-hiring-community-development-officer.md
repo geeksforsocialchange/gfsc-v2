@@ -59,7 +59,7 @@ Email jobs@gfsc.studio with:
 - A recent CV (please don't worry about customising this for us we just want an idea of who you are!)
 - A link to any projects you’ve been part of you think we might want to have a look at
 
-Deadline: ~May 16th~ extended to May 23rd. Then we will take it from there!
+Deadline: ~May 16th~ extended to 10am on May 23rd. Then we will take it from there!
 
 We expect applications to be around 500 words and definitely no more than 1,000 words. We welcome brevity. Don't worry about making it perfect, we're more interested in getting a flavour of you as a person.
 
