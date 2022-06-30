@@ -207,6 +207,7 @@ I have no idea but ask us in a year.
 
 {% include smallsignup.html custom="Sign up to our mailing list to get updates on our work developing community technology partnerships" %}
 
+
 ---
 
 ## Talk to us!!
@@ -216,5 +217,7 @@ Let us know if you want to get involved in this kind of work. We're just startin
 * You can chat to us on the [GFSC discord]
 * Follow us @gfscstudio on [Twitter](https://twitter.com/gfscstudio) and [Instagram](https://instagram.com/gfscstudio)
 * Email me: kim@gfsc.studio
+
+_Thanks to Dr Colleen Morgan for her utterly invaluable input into this piece._
 
 {% include kofi.html custom="You can also support our work with a financial contribution if you like!" %}
