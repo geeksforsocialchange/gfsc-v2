@@ -14,6 +14,11 @@ We've spent the last few months chatting to friends about what this could be abo
 
 We're delighted to present the first episode to you today. Mallory Moore (Trans Safety Network), Zara Manoehoetoe (Harpurhey Neighbourhood Project, GM Race Equality Panel), and Dr Kim Foale (Geeks for Social Change) discuss technologies of state and empire that control our lives. With a special focus on UK trans legal status and [lengthy prison sentences given to black teenagers for sending text messages](https://www.theguardian.com/uk-news/2022/jul/01/fury-in-manchester-as-black-teenagers-jailed-as-result-of-telegram-chat) in Manchester.
 
+
+You can listen to it below, or on [anchor.fm](https://anchor.fm/gfscstudio). We'll be adding it to all the major podcast platforms (Spotify, Apple Music, Google Podcasts, Amazon etc) today.
+
+<iframe src="https://anchor.fm/gfscstudio/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 > “I see a lot of the criminal justice system as a technology for further aggravating class divides” 
 >
 > -- Mallory Moore
