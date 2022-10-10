@@ -8,6 +8,8 @@ social-image-wide: /creating-ctps/PlaceCal_16by9_EventsAroundYou.png
 social-image-square: /creating-ctps/PlaceCal_16by9_EventsAroundYou.png
 ---
 
+{% include image.html alt="An illustration of a community of place" url="/assets/images/blog/creating-ctps/PlaceCal_16by9_LocalArea.png" class="frame" %}
+
 We’re delighted to announce that Geeks for Social Change, working in an ambitious partnership with C2 Connecting Communities, Manchester School of Architecture, The Wellcome Centre for Cultures and Environments of Health, and half a dozen friends and allies, have collectively won £220,000 from The National Lottery Community Fund, the largest funder of community activity in the UK.
 
 This funding, from the Growing Great Ideas programme, will help establish a national network of Community Technology Partnerships (CTPs), which we hope will revolutionise the relationships between people, place, technology and culture.
@@ -18,19 +20,19 @@ This article explores what a CTP is, what this initiative is all about, and how 
 
 ## What is a Community Technology Partnership (CTP)?
 
-{% include image.html alt="An illustration of a community of place" url="/assets/images/blog/creating-ctps/PlaceCal_16by9_LocalArea.png" class="" %}
-
 In real life we know that people help other people in their communities all the time.
 
 But this doesn't happen in the same way on the internet, where tech giants like Facebook have designed their systems to harvest data and generate profit. The online world is shaped by an imbalance of power and driven by a profit motive which is at odds with the work being done all over the UK by grass roots community organisations.
 
-### What we want to do
-
 {% include image.html alt="An illustration of a community of place linked by digital networks" url="/assets/images/blog/creating-ctps/PlaceCal_Storyboard_final_artwork-08.png" class="" %}
+
+### What we want to do
 
 Our dream is of a network, or ecosystem, of local partnerships across the UK where communities can share the problems that they want to address, and we can work with them to co-create digital solutions to help achieve their goals.
 
 All over the UK there are local groups who want to improve their communities — for example, by clearing up the streets; reducing loneliness; welcoming refugees; making spaces safer after dark; or a million other community inspired and community led ideas.
+
+{% include smallsignup.html custom="Keep to date with our progress developing Community Technology Partnerships and join our email list" %}
 
 For too long, disadvantaged communities have been seen as ‘the problem’ - when we know in fact that they understand the issues they want to address better than anyone else.
 
@@ -45,9 +47,9 @@ Here's some examples of our work locally:
 2. [Taphouse TV Dinners](https://tvdinners.club/). During lockdown, a small group of people in Hulme, Manchester became concerned about local residents who didn't have access to, or couldn't afford cooked meals. This particularly applied to older people who lived alone but also anyone else who was struggling. We helped them to set up Taphouse TV Dinners, a volunteer led project which supplied free or subsidised meals to people who wanted them and also reduced local food waste. We set up a website to connect people who wanted meals with volunteers and supermarkets with excess food. This has now delivered over 5,000 meals directly to residents with no support from local government or institutions.
 3. [‘imok’ (or “I’m OK”)](https://gfsc.studio/2021/05/12/imok-is-launched.html) is a simple bot designed to support people undertaking potentially risky activities. It was designed in partnership with No Borders Manchester to protect asylum seekers who have to ‘check in’ at a Reporting Centre, with the knowledge that at any point they may be detained and taken to the airport for extradition with no way of informing friends or family. Originally, No Borders volunteers accompanied asylum seekers to every check in, but this was unsustainable. We worked with them to develop ‘imok’. In the event that someone fails to check out from the Reporting Centre within a reasonable amount of time, volunteers can mobilise quickly. The bot can also be useful to support protestors at risk of arrest, women and LGBTQ+ people walking home at night or going on dates, emergency workers in dangerous situations, and potentially even more applications.
 
-### How will it work in practice?
-
 {% include image.html alt="An illustration of people meeting and traveling between different community spaces" url="/assets/images/blog/creating-ctps/PlaceCal_Storyboard_final_artwork-06.png" class="" %}
+
+### How will it work in practice?
 
 In each community, we will help establish a partnership between local tech experts and community organisers.
 
@@ -101,9 +103,9 @@ This CIC is in the process of figuring out what collective ownership looks like 
 
 Thanks to the National Lottery funding we've hired three wonderful people to work on this project, each two days a week. They are:
 
-- David Hayward, project manager. David also organises [Feral Vector](https://feral-vector.com/), where he makes videogame developers do non-digital stuff and go outside. His background includes running hackspaces, community events, and commercial events.
-- Rachele Evaroa, community organiser for North of England. Rachele is the landlady of the Old Abbey Taphouse, and was recently voted the most [eccentric landlady in the UK](https://www.manchestereveningnews.co.uk/whats-on/food-drink-news/manchesters-most-eccentric-pub-named-24908941).
-- Coral Freeman, community organiser for South of England. Coral founded [Idle Games Club](https://www.idlegamesclub.co.uk/), a Community Games Lounge located in South Devon, and is also the Volunteer Co-ordinator at Torbay Domestic Abuse Service.
+- **David Hayward**, project manager. David also organises [Feral Vector](https://feral-vector.com/), where he makes videogame developers do non-digital stuff and go outside. His background includes running hackspaces, community events, and commercial events.
+- **Rachele Evaroa**, community organiser for North of England. Rachele is the landlady of the Old Abbey Taphouse, and was recently voted the most [eccentric landlady in the UK](https://www.manchestereveningnews.co.uk/whats-on/food-drink-news/manchesters-most-eccentric-pub-named-24908941).
+- **Coral Freeman**, community organiser for South of England. Coral founded [Idle Games Club](https://www.idlegamesclub.co.uk/), a Community Games Lounge located in South Devon, and is also the Volunteer Co-ordinator at Torbay Domestic Abuse Service.
 
 The project is currently three months in and we are discovering so much already about how, why and where tech is failing people locally.
 
