@@ -37,7 +37,8 @@ All over the UK there are local groups who want to improve their communities —
 For too long, disadvantaged communities have been seen as ‘the problem’ - when we know in fact that they understand the issues they want to address better than anyone else.
 
 > "Disadvantaged communities and their people are not the problem – they are the solution"
-> Hazel Stuteley OBE (Chair C2 Connecting Communities)
+> 
+> -- Hazel Stuteley OBE (Chair C2 Connecting Communities)
 
 GFSC have an established track-record of helping communities transform themselves and their environments by developing digital solutions to support community action. However, there needs to be a step-change in supporting the digital autonomy of local communities. We need to build momentum.
 
