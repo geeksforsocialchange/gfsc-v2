@@ -71,7 +71,7 @@ Here’s a list of some concepts to get the creative juices flowing. A special n
 
 ## How much does it cost? 
 
-UnTechCon is free if you want it to be. As we build creative interpretations for the future of UnTech we’re also engaged with rebalancing the economies that have fuelled and funded tech monopolies. That said, we also want to resist funder-led models that rely entirely on grants to support liberatory tech so if you have the means we would welcome your financial support. If you come and feel moved to donate after, you can also do so at X.
+UnTechCon is free if you want it to be. As we build creative interpretations for the future of UnTech we’re also engaged with rebalancing the economies that have fuelled and funded tech monopolies. That said, we also want to resist funder-led models that rely entirely on grants to support liberatory tech so if you have the means we would welcome your financial support. If you come and feel moved to donate after, you can also do so on [Ko-Fi](https://ko-fi.com/gfscstudio) or [OpenCollective](https://opencollective.com/gfscstudio), or through a bank transfer (we will share our details nearer the time).
 
 We suggest £0 for unemployed or minimum wage workers or anyone who wouldn't come if they had to pay, £3 for low waged, £10 for higher waged, and £100 if it's coming out your work conference allowance anyway 😎. Anything left after covering our costs will go into our (currently dormant) [OpenCollective account](https://opencollective.com/gfscstudio) to fund future projects.
 
