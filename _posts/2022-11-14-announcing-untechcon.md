@@ -61,7 +61,7 @@ If you’re unfamiliar with Discord we are happy to help get you set up - drop E
 
 Want inspiration? We’ve put together this nebulous list of potential topics that might be covered — we’re especially keen to hear case studies of things you’ve actually done!
 
-### Possible topics
+## Possible topics
 
 Here’s a list of some concepts to get the creative juices flowing. A special note that we are especially keen to hear case studies of things you’ve actually done!
 
@@ -76,5 +76,11 @@ UnTechCon is free if you want it to be. As we build creative interpretations for
 We suggest £0 for unemployed or minimum wage workers or anyone who wouldn't come if they had to pay, £3 for low waged, £10 for higher waged, and £100 if it's coming out your work conference allowance anyway 😎. Anything left after covering our costs will go into our (currently dormant) [OpenCollective account](https://opencollective.com/gfscstudio) to fund future projects.
 
 Hope to see you there!
+
+
+## Still have more questions?
+
+Check out our [FAQ](/2022/11/24/untechcon-faq.html) or get in touch!
+
 
 {% include kofi.html custom="You can also donate to support UnTechCon on Ko-fi" %}
