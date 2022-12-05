@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Should I do a talk?"
-subtitle: The answer is almost cirtainly yes!
+subtitle: The answer is almost certainly yes!
 description:
 author: emma
 social-image-wide: 
