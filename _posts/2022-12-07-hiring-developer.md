@@ -2,7 +2,7 @@
 layout: blog
 title: "Join our development team!"
 subtitle: A development role building technology to support communities
-description: We’re looking for someone with prior experience working as a software developer to collaborate with our design team and community groups. Co-creating solutions to the challenges they're facing
+description: We’re looking for someone with prior experience working as a software developer to collaborate with our design team and community groups, co-creating solutions to the challenges they face.
 author: kim
 social-image-wide: 
 social-image-square: 
