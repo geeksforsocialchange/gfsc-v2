@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Join our development team!"
-subtitle: A 24hr/week role building technology to support communities
+subtitle: A development role building technology to support communities
 description: We’re looking for someone with prior experience working as a software developer to collaborate with our design team and community groups. Co-creating solutions to the challenges they're facing
 author: kim
 social-image-wide: 
