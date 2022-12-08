@@ -42,3 +42,4 @@ The deadline for applications is 11:00 on 16 January 2023.
 
 If you have any questions about the role or who we are, or if you’re not sure if you’re the right fit and want to talk it through, please reach out to F (f@gfsc.studio) or Katja (katja@gfsc.studio) and we’d love to chat.
 
+*please note gfsc are on winter break now until January. We will respond to any messages then, thankyou for your interest!*
