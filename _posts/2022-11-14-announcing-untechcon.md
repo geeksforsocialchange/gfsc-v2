@@ -22,6 +22,8 @@ We’ve recently been feeling that we’d love to host a more open space to have
 
 UnTechCon is a one-day unconference about creating community digital autonomy, challenging big tech, and creating a future worth living in.
 
+[Information for Attendees](https://gfsc.notion.site/UnTechCon-1-e12a706e1f7a4e3d81d6beae0b818b32) including Eventbrite sign up page, schedule, code of conduct, FAQS etc. We can't wait to see you there!
+
 The conference will be held on the GFSC Discord Server on Sat 10th December, 11-5. [Register on Eventbrite](https://www.eventbrite.co.uk/e/untechcon-1-tickets-463633840297).
 
 <aside class="kofi kofi--alt" markdown="0">

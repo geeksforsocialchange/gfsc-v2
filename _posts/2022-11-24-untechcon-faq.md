@@ -68,6 +68,10 @@ If in doubt, reach out to us with your idea before the event, and we’ll let yo
 
 We’re particularly keen to hear case-studies of things you’ve actually done. We don’t really want straight-up sales pitches though, and neither do most of our audience for this event. The way we want to hear about your specific project is in the context of a genuine case study of your work, which explores topics that the unconference is addressing in a meaningful way. Case studies: Yes! Pitches: No.
 
+## How will it work on the day?
+
+It's an unconference so anything could happen, but we've outlined some details in [Information for Attendees](https://gfsc.notion.site/UnTechCon-1-e12a706e1f7a4e3d81d6beae0b818b32) including Eventbrite sign up page, schedule, code of conduct etc.
+
 <aside class="kofi kofi--alt" markdown="0">
   <p class="kofi__text">
      Sign up for UnTechCon on Eventbrite now
